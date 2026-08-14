@@ -1,0 +1,687 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Papers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ying et al, 2021. Do Transformers Really Perform Bad for Graph Representation? (Graphormer paper)",
+          "description": ". [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-12T20:05:34Z",
+            "owner": "microsoft",
+            "repo": "Graphormer",
+            "stars": 2469
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yang et al, 2019. Analyzing Learned Molecular Representations for Property Prediction (Chemprop)",
+          "description": ". [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T22:51:10Z",
+            "owner": "chemprop",
+            "repo": "chemprop",
+            "stars": 2435
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hu et al, 2019. Strategies for Pre-training Graph Neural Networks",
+          "description": ". [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-29T06:21:39Z",
+            "owner": "snap-stanford",
+            "repo": "pretrain-gnns",
+            "stars": 1070
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Satorras et al, 2021. E(n) Equivariant Graph Neural Networks",
+          "description": ". [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-23T15:27:45Z",
+            "owner": "vgsatorras",
+            "repo": "egnn",
+            "stars": 545
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ahmad et al, 2021. ChemBERTa-2: Towards Chemical Foundation Models",
+          "description": ". [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-10-27T22:58:10Z",
+            "owner": "seyonechithrananda",
+            "repo": "bert-loves-chemistry",
+            "stars": 500
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rong et al., 2020. Self-Supervised Graph Transformer on Large-Scale Molecular Data (GROVER paper)",
+          "description": ". [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-25T06:11:20Z",
+            "owner": "tencent-ailab",
+            "repo": "grover",
+            "stars": 392
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wang et al, 2022. Molecular Contrastive Learning of Representations via Graph Neural Networks",
+          "description": ". [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-04T04:25:44Z",
+            "owner": "yuyangw",
+            "repo": "MolCLR",
+            "stars": 325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maziarka et al, 2020. Molecule Attention Transformer",
+          "description": ". [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-04-01T07:25:01Z",
+            "owner": "ardigen",
+            "repo": "MAT",
+            "stars": 254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stanley et al, 2021. FS-Mol: A Few-Shot Learning Dataset of Molecules",
+          "description": ". [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-03T20:59:37Z",
+            "owner": "microsoft",
+            "repo": "FS-Mol",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Li and Fourches, 2020. Inductive transfer learning for molecular activity prediction: Next-Gen QSAR Models with MolPMoFiT",
+          "description": ". [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-08-28T19:26:17Z",
+            "owner": "XinhaoLi74",
+            "repo": "MolPMoFiT",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xue et al, 2021. X-MOL: large-scale pre-training for molecular understanding and diverse molecular analysis",
+          "description": ". [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-08T05:27:05Z",
+            "owner": "bm2-lab",
+            "repo": "X-MOL",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nguyen et al., 2020. Meta-Learning GNN Initializations for Low-Resource Molecular Property Prediction",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-20T18:24:17Z",
+            "owner": "GSK-AI",
+            "repo": "meta-learning-qsar",
+            "stars": 34
+          }
+        }
+      ],
+      "title": "Representation, transfer learning, and few-shot learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Zhou et al, 2019. Optimization of Molecules via Deep Reinforcement Learning",
+          "description": ". [Code (official version)] [PyTorch implementation]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-13T19:06:46Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 38531
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bengio et al, 2021. Flow Network based Generative Models for Non-Iterative Diverse Candidate Generation",
+          "description": ". [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-28T15:34:00Z",
+            "owner": "GFNOrg",
+            "repo": "gflownet",
+            "stars": 685
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jin et al, 2018. Junction Tree Variational Autoencoder for Molecular Graph Generation",
+          "description": ". [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-01T17:36:05Z",
+            "owner": "wengong-jin",
+            "repo": "icml18-jtnn",
+            "stars": 564
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brown, 2019. GuacaMol: Benchmarking Models for de Novo Molecular Design",
+          "description": ". [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-11T08:59:38Z",
+            "owner": "BenevolentAI",
+            "repo": "guacamol",
+            "stars": 528
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jin et al, 2020. Hierarchical Generation of Molecular Graphs using Structural Motifs",
+          "description": ". [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-28T13:55:04Z",
+            "owner": "wengong-jin",
+            "repo": "hgraph2graph",
+            "stars": 441
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "You et al, 2019. Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation",
+          "description": ". [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-12T04:54:18Z",
+            "owner": "bowenliu16",
+            "repo": "rl_graph_generation",
+            "stars": 360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polishchuk, 2020. CReM: chemically reasonable mutations framework for structure generation",
+          "description": ". [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-13T13:57:36Z",
+            "owner": "DrrDom",
+            "repo": "crem",
+            "stars": 280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Imrie et al, 2020. Deep Generative Models for 3D Linker Design",
+          "description": ". [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-06T14:05:16Z",
+            "owner": "oxpig",
+            "repo": "DeLinker",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gao et al, 2021. Amortized Tree Generation for Bottom-up Synthesis Planning and Synthesizable Molecular Design",
+          "description": ". [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-19T09:49:42Z",
+            "owner": "wenhao-gao",
+            "repo": "SynNet",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Berenger and Tsuda, 2021. Molecular generation by Fast Assembly of (Deep)SMILES fragments",
+          "description": ". [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2024-10-31T09:27:26Z",
+            "owner": "UnixJunkie",
+            "repo": "FASMIFRA",
+            "stars": 57
+          }
+        }
+      ],
+      "title": "Generative algorithms"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Stärk et al, 2022. EquiBind: Geometric Deep Learning for Drug Binding Structure Prediction",
+          "description": ". [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-19T15:19:16Z",
+            "owner": "HannesStark",
+            "repo": "EquiBind",
+            "stars": 547
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graff et al, 2021. Accelerating high-throughput virtual screening through molecular pool-based active learning",
+          "description": ". [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-15T14:57:53Z",
+            "owner": "coleygroup",
+            "repo": "molpal",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "García-Ortegón et al, 2021. DOCKSTRING: easy molecular docking yields better benchmarks for ligand design",
+          "description": ". [Code] [Data]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-24T20:01:22Z",
+            "owner": "dockstring",
+            "repo": "dockstring",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gentile et al, 2020. Deep Docking: A Deep Learning Platform for Augmentation of Structure Based Drug Discovery",
+          "description": ". [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-24T21:07:59Z",
+            "owner": "jamesgleave",
+            "repo": "Deep-Docking-NonAutomated",
+            "stars": 56
+          }
+        }
+      ],
+      "title": "Hit finding and potency prediciton"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Karim et al, 2021. CardioTox net: a robust predictor for hERG channel blockade based on deep learning meta-feature ensembles",
+          "description": ". [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-05T23:49:53Z",
+            "owner": "Abdulk084",
+            "repo": "CardioTox",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cai et al, 2019. Deep Learning-Based Prediction of Drug-Induced Cardiotoxicity",
+          "description": ". [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-12-18T19:22:52Z",
+            "owner": "ChengF-Lab",
+            "repo": "deephERG",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "ADME and toxicity prediction"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dai et al, 2019. Retrosynthesis Prediction with Conditional Graph Logic Network",
+          "description": ". [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-10T06:54:20Z",
+            "owner": "Hanjun-Dai",
+            "repo": "GLN",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Coley et al, 2018. SCScore: Synthetic Complexity Learned from a Reaction Corpus",
+          "description": ". [Code] [DeepChem implementation]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Roff",
+            "last_commit": "2021-01-20T14:50:39Z",
+            "owner": "connorcoley",
+            "repo": "scscore",
+            "stars": 122
+          }
+        }
+      ],
+      "title": "Synthetic accessability and retrosynthetic planning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Humer et al, 2021. ChemInformatics Model Explorer (CIME): Exploratory analysis of chemical model explanations",
+          "description": ". [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-12T07:18:45Z",
+            "owner": "jku-vds-lab",
+            "repo": "cime",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Matveieva and Polishchuk, 2021. Benchmarks for interpretation of QSAR models",
+          "description": ". [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-08-12T13:36:36Z",
+            "owner": "ci-lab-cz",
+            "repo": "ibenchmark",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Visualization and interpretability"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Goldman el al, 2023. Prefix-Tree Decoding for Predicting Mass Spectra from Molecules",
+          "description": ". [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-12T21:03:35Z",
+            "owner": "coleygroup",
+            "repo": "ms-pred",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wei et al, 2019. Rapid Prediction of Electron–Ionization Mass Spectrometry Using Neural Networks",
+          "description": ". [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-06-30T20:21:24Z",
+            "owner": "brain-research",
+            "repo": "deep-molecular-massspec",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Young et al, 2023. MassFormer: Tandem Mass Spectrum Prediction for Small Molecules using Graph Transformers",
+          "description": ". [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-26T01:01:42Z",
+            "owner": "Roestlab",
+            "repo": "massformer",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hong et al, 2023. 3DMolMS: prediction of tandem mass spectra from 3D molecular conformations",
+          "description": ". [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:22:18Z",
+            "owner": "josiehong",
+            "repo": "3DMolMS",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "MS/MS prediction"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DeepChem",
+          "description": "[Tutorials]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T18:48:19Z",
+            "owner": "deepchem",
+            "repo": "deepchem",
+            "stars": 6939
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chemprop",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T22:51:10Z",
+            "owner": "chemprop",
+            "repo": "chemprop",
+            "stars": 2435
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rd_filters",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-17T04:43:38Z",
+            "owner": "PatWalters",
+            "repo": "rd_filters",
+            "stars": 172
+          }
+        }
+      ],
+      "title": "Frameworks, Libraries, and Software Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "deeplearning-biology",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-03T16:05:10Z",
+            "owner": "hussius",
+            "repo": "deeplearning-biology",
+            "stars": 2155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Explainable Graph Reasoning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-04-04T14:54:08Z",
+            "owner": "AstraZeneca",
+            "repo": "awesome-explainable-graph-reasoning",
+            "stars": 1990
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Python Chemistry",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-21T08:25:01Z",
+            "owner": "lmmentel",
+            "repo": "awesome-python-chemistry",
+            "stars": 1433
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Cheminformatics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-15T00:55:18Z",
+            "owner": "hsiaoyi0504",
+            "repo": "awesome-cheminformatics",
+            "stars": 879
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Drug Discovery",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-11-15T18:30:05Z",
+            "owner": "xnuohz",
+            "repo": "awesome-drug-discovery",
+            "stars": 43
+          }
+        }
+      ],
+      "title": "Related lists"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T04:44:09.545Z",
+    "original_repository": "benb111/awesome-small-molecule-ml",
+    "original_repository_sha": "3ee5657144f9a5d7ab7728e572e230f04fcc994f",
+    "enhanced_repository": "enhansome/enhansome-small-molecule-ml",
+    "enhanced_repository_description": null,
+    "title": "Awesome Small Molecule Machine Learning with stars"
+  }
+}
