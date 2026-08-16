@@ -38,7 +38,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 ### Representation, transfer learning, and few-shot learning
 
 * Ying et al, 2021. [Do Transformers Really Perform Bad for Graph Representation? (Graphormer paper)](https://arxiv.org/abs/2106.05234). \[[Code](https://github.com/microsoft/Graphormer) ⭐ 2,469 | 🐛 100 | 🌐 Python | 📅 2026-06-12]
-* Yang et al, 2019. [Analyzing Learned Molecular Representations for Property Prediction (Chemprop)](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00237). \[[Code](https://github.com/chemprop/chemprop) ⭐ 2,435 | 🐛 13 | 🌐 Python | 📅 2026-08-04]
+* Yang et al, 2019. [Analyzing Learned Molecular Representations for Property Prediction (Chemprop)](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00237). \[[Code](https://github.com/chemprop/chemprop) ⭐ 2,436 | 🐛 13 | 🌐 Python | 📅 2026-08-04]
 * Hu et al, 2019. [Strategies for Pre-training Graph Neural Networks](https://arxiv.org/abs/1905.12265). \[[Code](https://github.com/snap-stanford/pretrain-gnns) ⭐ 1,070 | 🐛 39 | 🌐 Python | 📅 2023-07-29]
 * Satorras et al, 2021. [E(n) Equivariant Graph Neural Networks](https://arxiv.org/abs/2102.09844). \[[Code](https://github.com/vgsatorras/egnn) ⭐ 545 | 🐛 5 | 🌐 Python | 📅 2022-02-23]
 * Ahmad et al, 2021. [ChemBERTa-2: Towards Chemical Foundation Models](https://cloud.ml.jku.at/s/dZ7CwqBkHX97C6S). \[[Code](https://github.com/seyonechithrananda/bert-loves-chemistry) ⭐ 500 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2024-10-27]
@@ -60,7 +60,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 
 ### Generative algorithms
 
-* Zhou et al, 2019. [Optimization of Molecules via Deep Reinforcement Learning](https://doi.org/10.1038/s41598-019-47148-x). \[[Code (official version)](https://github.com/google-research/google-research/tree/master/mol_dqn) ⭐ 38,532 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-14] \[[PyTorch implementation](https://github.com/aksub99/MolDQN-pytorch) ⭐ 84 | 🐛 7 | 🌐 Python | 📅 2023-03-24]
+* Zhou et al, 2019. [Optimization of Molecules via Deep Reinforcement Learning](https://doi.org/10.1038/s41598-019-47148-x). \[[Code (official version)](https://github.com/google-research/google-research/tree/master/mol_dqn) ⭐ 38,540 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-14] \[[PyTorch implementation](https://github.com/aksub99/MolDQN-pytorch) ⭐ 84 | 🐛 7 | 🌐 Python | 📅 2023-03-24]
 * Bengio et al, 2021. [Flow Network based Generative Models for Non-Iterative Diverse Candidate Generation](https://arxiv.org/abs/2106.04399). \[[Code](https://github.com/bengioe/gflownet) ⭐ 685 | 🐛 9 | 🌐 Python | 📅 2023-02-28]
 * Jin et al, 2018. [Junction Tree Variational Autoencoder for Molecular Graph Generation](https://arxiv.org/abs/1802.04364). \[[Code](https://github.com/wengong-jin/icml18-jtnn) ⭐ 564 | 🐛 30 | 🌐 Python | 📅 2022-12-01]
 * Brown, 2019. [GuacaMol: Benchmarking Models for de Novo Molecular Design](https://doi.org/10.1021/acs.jcim.8b00839). \[[Code](https://github.com/BenevolentAI/guacamol) ⭐ 528 | 🐛 13 | 🌐 Python | 📅 2024-02-11]
@@ -105,7 +105,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 ### Synthetic accessability and retrosynthetic planning
 
 * Dai et al, 2019. [Retrosynthesis Prediction with Conditional Graph Logic Network](https://arxiv.org/abs/2001.01408). \[[Code](https://github.com/Hanjun-Dai/GLN) ⭐ 143 | 🐛 7 | 🌐 Python | 📅 2022-12-10]
-* Coley et al, 2018. [SCScore: Synthetic Complexity Learned from a Reaction Corpus](https://pubs.acs.org/doi/10.1021/acs.jcim.7b00622). \[[Code](https://github.com/connorcoley/scscore) ⭐ 122 | 🐛 9 | 🌐 Roff | 📅 2021-01-20] \[[DeepChem implementation](https://github.com/deepchem/deepchem/blob/master/deepchem/models/scscore.py) ⭐ 6,938 | 🐛 1,155 | 🌐 Python | 📅 2026-08-10]
+* Coley et al, 2018. [SCScore: Synthetic Complexity Learned from a Reaction Corpus](https://pubs.acs.org/doi/10.1021/acs.jcim.7b00622). \[[Code](https://github.com/connorcoley/scscore) ⭐ 122 | 🐛 9 | 🌐 Roff | 📅 2021-01-20] \[[DeepChem implementation](https://github.com/deepchem/deepchem/blob/master/deepchem/models/scscore.py) ⭐ 6,940 | 🐛 1,155 | 🌐 Python | 📅 2026-08-10]
 * Fortunato et al, 2020. [Data augmentation and pretraining for template-based retrosynthetic prediction in computer-aided synthesis planning](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00403).
 * Koch et al, 2020. [Reinforcement Learning for Bioretrosynthesis](https://pubs.acs.org/doi/10.1021/acssynbio.9b00447).
 * Somnath et al, 2020. [Learning Graph Models for Retrosynthesis Prediction](https://arxiv.org/abs/2006.07038).
@@ -158,8 +158,8 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 
 ## Frameworks, Libraries, and Software Tools
 
-* [DeepChem](https://deepchem.io/) \[[Tutorials](https://github.com/deepchem/deepchem/tree/master/examples/tutorials) ⭐ 6,938 | 🐛 1,155 | 🌐 Python | 📅 2026-08-10]
-* [Chemprop](https://github.com/chemprop/chemprop) ⭐ 2,435 | 🐛 13 | 🌐 Python | 📅 2026-08-04
+* [DeepChem](https://deepchem.io/) \[[Tutorials](https://github.com/deepchem/deepchem/tree/master/examples/tutorials) ⭐ 6,940 | 🐛 1,155 | 🌐 Python | 📅 2026-08-10]
+* [Chemprop](https://github.com/chemprop/chemprop) ⭐ 2,436 | 🐛 13 | 🌐 Python | 📅 2026-08-04
 * [rd\_filters](https://github.com/PatWalters/rd_filters) ⭐ 172 | 🐛 6 | 🌐 Python | 📅 2026-02-17
 * [AutoDock Vina](https://autodock-vina.readthedocs.io/en/latest/index.html)
 * [BioPandas](http://rasbt.github.io/biopandas/)
@@ -193,9 +193,9 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 * [deeplearning-biology](https://github.com/hussius/deeplearning-biology#chemoinformatics-and-drug-discovery-) ⭐ 2,155 | 🐛 0 | 📅 2026-08-03
 * [Awesome Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning) ⭐ 1,990 | 🐛 0 | 📅 2022-04-04
 * [Awesome Python Chemistry](https://github.com/lmmentel/awesome-python-chemistry) ⭐ 1,433 | 🐛 11 | 📅 2025-09-21
-* [Awesome Cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) ⭐ 879 | 🐛 34 | 📅 2024-03-15
+* [Awesome Cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) ⭐ 880 | 🐛 34 | 📅 2024-03-15
 * [Awesome Drug Discovery](https://github.com/xnuohz/awesome-drug-discovery) ⭐ 43 | 🐛 2 | 📅 2021-11-15
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
