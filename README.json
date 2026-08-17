@@ -33,7 +33,7 @@
             "last_commit": "2026-08-04T22:51:10Z",
             "owner": "chemprop",
             "repo": "chemprop",
-            "stars": 2436
+            "stars": 2435
           }
         },
         {
@@ -190,10 +190,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-14T22:49:14Z",
+            "last_commit": "2026-08-16T18:45:46Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38540
+            "stars": 38554
           }
         },
         {
@@ -274,10 +274,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-13T13:57:36Z",
+            "last_commit": "2026-08-17T02:49:41Z",
             "owner": "DrrDom",
             "repo": "crem",
-            "stars": 281
+            "stars": 282
           }
         },
         {
@@ -565,7 +565,7 @@
             "last_commit": "2026-08-10T18:48:19Z",
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 6940
+            "stars": 6943
           }
         },
         {
@@ -579,7 +579,7 @@
             "last_commit": "2026-08-04T22:51:10Z",
             "owner": "chemprop",
             "repo": "chemprop",
-            "stars": 2436
+            "stars": 2435
           }
         },
         {
@@ -677,7 +677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T03:41:51.157Z",
+    "last_updated": "2026-08-17T03:42:48.477Z",
     "original_repository": "benb111/awesome-small-molecule-ml",
     "original_repository_sha": "3ee5657144f9a5d7ab7728e572e230f04fcc994f",
     "enhanced_repository": "enhansome/enhansome-small-molecule-ml",
