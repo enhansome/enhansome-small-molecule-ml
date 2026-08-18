@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-04T22:51:10Z",
+            "last_commit": "2026-08-17T19:57:45Z",
             "owner": "chemprop",
             "repo": "chemprop",
             "stars": 2435
@@ -193,7 +193,7 @@
             "last_commit": "2026-08-16T18:45:46Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38554
+            "stars": 38570
           }
         },
         {
@@ -565,7 +565,7 @@
             "last_commit": "2026-08-10T18:48:19Z",
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 6943
+            "stars": 6944
           }
         },
         {
@@ -576,7 +576,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-04T22:51:10Z",
+            "last_commit": "2026-08-17T19:57:45Z",
             "owner": "chemprop",
             "repo": "chemprop",
             "stars": 2435
@@ -641,7 +641,7 @@
             "last_commit": "2025-09-21T08:25:01Z",
             "owner": "lmmentel",
             "repo": "awesome-python-chemistry",
-            "stars": 1433
+            "stars": 1432
           }
         },
         {
@@ -655,7 +655,7 @@
             "last_commit": "2024-03-15T00:55:18Z",
             "owner": "hsiaoyi0504",
             "repo": "awesome-cheminformatics",
-            "stars": 880
+            "stars": 879
           }
         },
         {
@@ -677,7 +677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T03:42:48.477Z",
+    "last_updated": "2026-08-18T03:38:03.579Z",
     "original_repository": "benb111/awesome-small-molecule-ml",
     "original_repository_sha": "3ee5657144f9a5d7ab7728e572e230f04fcc994f",
     "enhanced_repository": "enhansome/enhansome-small-molecule-ml",
