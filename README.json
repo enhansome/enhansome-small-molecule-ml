@@ -193,7 +193,7 @@
             "last_commit": "2026-08-16T18:45:46Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38570
+            "stars": 38577
           }
         },
         {
@@ -277,7 +277,7 @@
             "last_commit": "2026-08-17T02:49:41Z",
             "owner": "DrrDom",
             "repo": "crem",
-            "stars": 282
+            "stars": 283
           }
         },
         {
@@ -641,7 +641,7 @@
             "last_commit": "2025-09-21T08:25:01Z",
             "owner": "lmmentel",
             "repo": "awesome-python-chemistry",
-            "stars": 1432
+            "stars": 1433
           }
         },
         {
@@ -677,7 +677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T03:38:03.579Z",
+    "last_updated": "2026-08-19T03:39:56.412Z",
     "original_repository": "benb111/awesome-small-molecule-ml",
     "original_repository_sha": "3ee5657144f9a5d7ab7728e572e230f04fcc994f",
     "enhanced_repository": "enhansome/enhansome-small-molecule-ml",
