@@ -37,7 +37,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 
 ### Representation, transfer learning, and few-shot learning
 
-* Ying et al, 2021. [Do Transformers Really Perform Bad for Graph Representation? (Graphormer paper)](https://arxiv.org/abs/2106.05234). \[[Code](https://github.com/microsoft/Graphormer) ⭐ 2,469 | 🐛 100 | 🌐 Python | 📅 2026-06-12]
+* Ying et al, 2021. [Do Transformers Really Perform Bad for Graph Representation? (Graphormer paper)](https://arxiv.org/abs/2106.05234). \[[Code](https://github.com/microsoft/Graphormer) ⭐ 2,470 | 🐛 100 | 🌐 Python | 📅 2026-06-12]
 * Yang et al, 2019. [Analyzing Learned Molecular Representations for Property Prediction (Chemprop)](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00237). \[[Code](https://github.com/chemprop/chemprop) ⭐ 2,435 | 🐛 13 | 🌐 Python | 📅 2026-08-17]
 * Hu et al, 2019. [Strategies for Pre-training Graph Neural Networks](https://arxiv.org/abs/1905.12265). \[[Code](https://github.com/snap-stanford/pretrain-gnns) ⭐ 1,070 | 🐛 39 | 🌐 Python | 📅 2023-07-29]
 * Satorras et al, 2021. [E(n) Equivariant Graph Neural Networks](https://arxiv.org/abs/2102.09844). \[[Code](https://github.com/vgsatorras/egnn) ⭐ 545 | 🐛 5 | 🌐 Python | 📅 2022-02-23]
@@ -60,10 +60,10 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 
 ### Generative algorithms
 
-* Zhou et al, 2019. [Optimization of Molecules via Deep Reinforcement Learning](https://doi.org/10.1038/s41598-019-47148-x). \[[Code (official version)](https://github.com/google-research/google-research/tree/master/mol_dqn) ⭐ 38,577 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-16] \[[PyTorch implementation](https://github.com/aksub99/MolDQN-pytorch) ⭐ 84 | 🐛 7 | 🌐 Python | 📅 2023-03-24]
+* Zhou et al, 2019. [Optimization of Molecules via Deep Reinforcement Learning](https://doi.org/10.1038/s41598-019-47148-x). \[[Code (official version)](https://github.com/google-research/google-research/tree/master/mol_dqn) ⭐ 38,579 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-16] \[[PyTorch implementation](https://github.com/aksub99/MolDQN-pytorch) ⭐ 84 | 🐛 7 | 🌐 Python | 📅 2023-03-24]
 * Bengio et al, 2021. [Flow Network based Generative Models for Non-Iterative Diverse Candidate Generation](https://arxiv.org/abs/2106.04399). \[[Code](https://github.com/bengioe/gflownet) ⭐ 685 | 🐛 9 | 🌐 Python | 📅 2023-02-28]
 * Jin et al, 2018. [Junction Tree Variational Autoencoder for Molecular Graph Generation](https://arxiv.org/abs/1802.04364). \[[Code](https://github.com/wengong-jin/icml18-jtnn) ⭐ 564 | 🐛 30 | 🌐 Python | 📅 2022-12-01]
-* Brown, 2019. [GuacaMol: Benchmarking Models for de Novo Molecular Design](https://doi.org/10.1021/acs.jcim.8b00839). \[[Code](https://github.com/BenevolentAI/guacamol) ⭐ 528 | 🐛 13 | 🌐 Python | 📅 2024-02-11]
+* Brown, 2019. [GuacaMol: Benchmarking Models for de Novo Molecular Design](https://doi.org/10.1021/acs.jcim.8b00839). \[[Code](https://github.com/BenevolentAI/guacamol) ⭐ 529 | 🐛 13 | 🌐 Python | 📅 2024-02-11]
 * Jin et al, 2020. [Hierarchical Generation of Molecular Graphs using Structural Motifs](https://arxiv.org/abs/2002.03230). \[[Code](https://github.com/wengong-jin/hgraph2graph) ⭐ 442 | 🐛 44 | 🌐 Python | 📅 2022-06-28]
 * You et al, 2019. [Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation](https://arxiv.org/abs/1806.02473). \[[Code](https://github.com/bowenliu16/rl_graph_generation) ⭐ 360 | 🐛 10 | 🌐 Python | 📅 2022-10-12]
 * Polishchuk, 2020. [CReM: chemically reasonable mutations framework for structure generation](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00431-w). \[[Code](https://github.com/DrrDom/crem) ⭐ 283 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-08-17]
@@ -81,7 +81,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 
 * Stärk et al, 2022. [EquiBind: Geometric Deep Learning for Drug Binding Structure Prediction](https://arxiv.org/abs/2202.05146). \[[Code](https://github.com/HannesStark/EquiBind) ⭐ 547 | 🐛 8 | 🌐 Python | 📅 2025-02-19]
 * Graff et al, 2021. [Accelerating high-throughput virtual screening through molecular pool-based active learning](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d0sc06805e). \[[Code](https://github.com/coleygroup/molpal) ⭐ 212 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2024-06-15]
-* García-Ortegón et al, 2021. [DOCKSTRING: easy molecular docking yields better benchmarks for ligand design](https://arxiv.org/abs/2110.15486). \[[Code](https://github.com/dockstring/dockstring) ⭐ 187 | 🐛 8 | 🌐 Python | 📅 2026-05-24] \[[Data](https://figshare.com/s/95f2fed733dec170b998)]
+* García-Ortegón et al, 2021. [DOCKSTRING: easy molecular docking yields better benchmarks for ligand design](https://arxiv.org/abs/2110.15486). \[[Code](https://github.com/dockstring/dockstring) ⭐ 188 | 🐛 8 | 🌐 Python | 📅 2026-05-24] \[[Data](https://figshare.com/s/95f2fed733dec170b998)]
 * Gentile et al, 2020. [Deep Docking: A Deep Learning Platform for Augmentation of Structure Based Drug Discovery](https://pubs.acs.org/doi/10.1021/acscentsci.0c00229). \[[Code](https://github.com/jamesgleave/Deep-Docking-NonAutomated) ⭐ 56 | 🐛 7 | 🌐 Python | 📅 2022-11-24]
 * Bender et al, 2021. [A practical guide to large-scale docking](https://www.nature.com/articles/s41596-021-00597-z).
 * Cáceres et al, 2020. [Adding Stochastic Negative Examples into Machine Learning Improves Molecular Bioactivity Prediction](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00565).
@@ -130,7 +130,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 
 ### MS/MS prediction
 
-* Goldman el al, 2023. [Prefix-Tree Decoding for Predicting Mass Spectra from Molecules](https://arxiv.org/abs/2303.06470). \[[Code](https://github.com/samgoldman97/ms-pred) ⭐ 148 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-08-12]
+* Goldman el al, 2023. [Prefix-Tree Decoding for Predicting Mass Spectra from Molecules](https://arxiv.org/abs/2303.06470). \[[Code](https://github.com/samgoldman97/ms-pred) ⭐ 149 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-08-12]
 * Wei et al, 2019. [Rapid Prediction of Electron–Ionization Mass Spectrometry Using Neural Networks](https://pubs.acs.org/doi/10.1021/acscentsci.9b00085). \[[Code](https://github.com/brain-research/deep-molecular-massspec) ⚠️ Archived]
 * Young et al, 2023. [MassFormer: Tandem Mass Spectrum Prediction for Small Molecules using Graph Transformers](https://arxiv.org/abs/2111.04824). \[[Code](https://github.com/Roestlab/massformer) ⭐ 100 | 🐛 2 | 🌐 Python | 📅 2024-08-26]
 * Hong et al, 2023. [3DMolMS: prediction of tandem mass spectra from 3D molecular conformations](https://academic.oup.com/bioinformatics/article/39/6/btad354/7186501). \[[Code](https://github.com/JosieHong/3DMolMS) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2026-08-12]
