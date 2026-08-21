@@ -204,7 +204,7 @@
                 "last_commit": "2026-08-19T20:48:11Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38581
+                "stars": 38590
               }
             },
             {
@@ -279,7 +279,7 @@
                 "last_commit": "2022-10-12T04:54:18Z",
                 "owner": "bowenliu16",
                 "repo": "rl_graph_generation",
-                "stars": 360
+                "stars": 359
               }
             },
             {
@@ -291,10 +291,10 @@
                 "archived": false,
                 "id": 203729484,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-19T14:05:06Z",
+                "last_commit": "2026-08-20T21:12:23Z",
                 "owner": "DrrDom",
                 "repo": "crem",
-                "stars": 283
+                "stars": 282
               }
             },
             {
@@ -607,10 +607,10 @@
             "archived": false,
             "id": 43098215,
             "language": "Python",
-            "last_commit": "2026-08-10T18:48:19Z",
+            "last_commit": "2026-08-20T19:01:34Z",
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 6943
+            "stars": 6945
           }
         },
         {
@@ -661,7 +661,7 @@
             "last_commit": "2026-08-03T16:05:10Z",
             "owner": "hussius",
             "repo": "deeplearning-biology",
-            "stars": 2156
+            "stars": 2154
           }
         },
         {
@@ -706,7 +706,7 @@
             "last_commit": "2024-03-15T00:55:18Z",
             "owner": "hsiaoyi0504",
             "repo": "awesome-cheminformatics",
-            "stars": 879
+            "stars": 881
           }
         },
         {
@@ -729,7 +729,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T03:39:54.341Z",
+    "last_updated": "2026-08-21T03:43:44.256Z",
     "original_repository": "benb111/awesome-small-molecule-ml",
     "original_repository_id": 440886380,
     "original_repository_sha": "3ee5657144f9a5d7ab7728e572e230f04fcc994f",
