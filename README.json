@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 167628014,
                 "language": "Python",
-                "last_commit": "2026-08-17T19:57:45Z",
+                "last_commit": "2026-08-21T20:08:40Z",
                 "owner": "chemprop",
                 "repo": "chemprop",
                 "stars": 2435
@@ -201,10 +201,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-19T20:48:11Z",
+                "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38590
+                "stars": 38593
               }
             },
             {
@@ -291,7 +291,7 @@
                 "archived": false,
                 "id": 203729484,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-20T21:12:23Z",
+                "last_commit": "2026-08-21T14:10:53Z",
                 "owner": "DrrDom",
                 "repo": "crem",
                 "stars": 282
@@ -610,7 +610,7 @@
             "last_commit": "2026-08-20T19:01:34Z",
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 6945
+            "stars": 6950
           }
         },
         {
@@ -622,7 +622,7 @@
             "archived": false,
             "id": 167628014,
             "language": "Python",
-            "last_commit": "2026-08-17T19:57:45Z",
+            "last_commit": "2026-08-21T20:08:40Z",
             "owner": "chemprop",
             "repo": "chemprop",
             "stars": 2435
@@ -661,7 +661,7 @@
             "last_commit": "2026-08-03T16:05:10Z",
             "owner": "hussius",
             "repo": "deeplearning-biology",
-            "stars": 2154
+            "stars": 2155
           }
         },
         {
@@ -729,7 +729,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T03:43:44.256Z",
+    "last_updated": "2026-08-22T03:35:58.727Z",
     "original_repository": "benb111/awesome-small-molecule-ml",
     "original_repository_id": 440886380,
     "original_repository_sha": "3ee5657144f9a5d7ab7728e572e230f04fcc994f",
