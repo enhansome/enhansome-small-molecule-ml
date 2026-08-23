@@ -17,7 +17,7 @@
                 "last_commit": "2026-06-12T20:05:34Z",
                 "owner": "microsoft",
                 "repo": "Graphormer",
-                "stars": 2470
+                "stars": 2471
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38593
+                "stars": 38601
               }
             },
             {
@@ -361,7 +361,7 @@
                 "last_commit": "2025-02-19T15:19:16Z",
                 "owner": "HannesStark",
                 "repo": "EquiBind",
-                "stars": 547
+                "stars": 546
               }
             },
             {
@@ -539,7 +539,7 @@
                 "last_commit": "2026-08-19T18:06:48Z",
                 "owner": "coleygroup",
                 "repo": "ms-pred",
-                "stars": 149
+                "stars": 150
               }
             },
             {
@@ -676,7 +676,7 @@
             "last_commit": "2022-04-04T14:54:08Z",
             "owner": "AstraZeneca",
             "repo": "awesome-explainable-graph-reasoning",
-            "stars": 1990
+            "stars": 1989
           }
         },
         {
@@ -691,7 +691,7 @@
             "last_commit": "2025-09-21T08:25:01Z",
             "owner": "lmmentel",
             "repo": "awesome-python-chemistry",
-            "stars": 1432
+            "stars": 1433
           }
         },
         {
@@ -729,7 +729,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T03:35:58.727Z",
+    "last_updated": "2026-08-23T03:43:57.042Z",
     "original_repository": "benb111/awesome-small-molecule-ml",
     "original_repository_id": 440886380,
     "original_repository_sha": "3ee5657144f9a5d7ab7728e572e230f04fcc994f",
