@@ -62,7 +62,7 @@
                 "last_commit": "2022-02-23T15:27:45Z",
                 "owner": "vgsatorras",
                 "repo": "egnn",
-                "stars": 545
+                "stars": 546
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38607
+                "stars": 38611
               }
             },
             {
@@ -492,6 +492,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Lim et al, 2022. Machine Learning on DNA-Encoded Library Count Data Using an Uncertainty-Aware Probabilistic Loss Function",
+              "description": ". [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 332887265,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-06-08T18:09:00Z",
+                "owner": "coleygroup",
+                "repo": "del_qsar",
+                "stars": 33
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "DNA-encoded libraries (DELs)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Humer et al, 2021. ChemInformatics Model Explorer (CIME): Exploratory analysis of chemical model explanations",
               "description": ". [Code]",
               "children": [],
@@ -729,7 +751,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:47:34.229Z",
+    "last_updated": "2026-08-24T14:31:20.694Z",
     "original_repository": "benb111/awesome-small-molecule-ml",
     "original_repository_id": 440886380,
     "original_repository_sha": "3ee5657144f9a5d7ab7728e572e230f04fcc994f",
