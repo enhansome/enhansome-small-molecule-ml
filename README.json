@@ -17,7 +17,7 @@
                 "last_commit": "2026-06-12T20:05:34Z",
                 "owner": "microsoft",
                 "repo": "Graphormer",
-                "stars": 2471
+                "stars": 2472
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-21T20:08:40Z",
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2435
+                "stars": 2437
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2024-10-27T22:58:10Z",
                 "owner": "seyonechithrananda",
                 "repo": "bert-loves-chemistry",
-                "stars": 500
+                "stars": 501
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-02-25T06:11:20Z",
                 "owner": "tencent-ailab",
                 "repo": "grover",
-                "stars": 392
+                "stars": 393
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38601
+                "stars": 38607
               }
             },
             {
@@ -219,7 +219,7 @@
                 "last_commit": "2023-02-28T15:34:00Z",
                 "owner": "GFNOrg",
                 "repo": "gflownet",
-                "stars": 685
+                "stars": 686
               }
             },
             {
@@ -234,7 +234,7 @@
                 "last_commit": "2022-12-01T17:36:05Z",
                 "owner": "wengong-jin",
                 "repo": "icml18-jtnn",
-                "stars": 564
+                "stars": 565
               }
             },
             {
@@ -249,7 +249,7 @@
                 "last_commit": "2024-02-11T08:59:38Z",
                 "owner": "BenevolentAI",
                 "repo": "guacamol",
-                "stars": 529
+                "stars": 530
               }
             },
             {
@@ -610,7 +610,7 @@
             "last_commit": "2026-08-20T19:01:34Z",
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 6950
+            "stars": 6955
           }
         },
         {
@@ -625,7 +625,7 @@
             "last_commit": "2026-08-21T20:08:40Z",
             "owner": "chemprop",
             "repo": "chemprop",
-            "stars": 2435
+            "stars": 2437
           }
         },
         {
@@ -729,7 +729,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T03:43:57.042Z",
+    "last_updated": "2026-08-24T03:47:34.229Z",
     "original_repository": "benb111/awesome-small-molecule-ml",
     "original_repository_id": 440886380,
     "original_repository_sha": "3ee5657144f9a5d7ab7728e572e230f04fcc994f",
