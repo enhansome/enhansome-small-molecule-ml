@@ -204,7 +204,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38612
+                "stars": 38614
               }
             },
             {
@@ -751,7 +751,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:41:30.042Z",
+    "last_updated": "2026-08-25T06:26:36.390Z",
     "original_repository": "benb111/awesome-small-molecule-ml",
     "original_repository_id": 440886380,
     "original_repository_sha": "3ee5657144f9a5d7ab7728e572e230f04fcc994f",
