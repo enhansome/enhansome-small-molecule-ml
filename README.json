@@ -17,7 +17,7 @@
                 "last_commit": "2026-06-12T20:05:34Z",
                 "owner": "microsoft",
                 "repo": "Graphormer",
-                "stars": 2472
+                "stars": 2473
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-02-25T06:11:20Z",
                 "owner": "tencent-ailab",
                 "repo": "grover",
-                "stars": 393
+                "stars": 394
               }
             },
             {
@@ -201,10 +201,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-21T19:58:51Z",
+                "last_commit": "2026-08-25T18:30:01Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38614
+                "stars": 38621
               }
             },
             {
@@ -632,7 +632,7 @@
             "last_commit": "2026-08-20T19:01:34Z",
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 6959
+            "stars": 6960
           }
         },
         {
@@ -728,7 +728,7 @@
             "last_commit": "2024-03-15T00:55:18Z",
             "owner": "hsiaoyi0504",
             "repo": "awesome-cheminformatics",
-            "stars": 881
+            "stars": 880
           }
         },
         {
@@ -751,7 +751,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:26:36.390Z",
+    "last_updated": "2026-08-26T03:46:55.805Z",
     "original_repository": "benb111/awesome-small-molecule-ml",
     "original_repository_id": 440886380,
     "original_repository_sha": "3ee5657144f9a5d7ab7728e572e230f04fcc994f",
