@@ -306,7 +306,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38643,
+                "stars": 38644,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1046,7 +1046,7 @@
             "open_issues": 10,
             "owner": "lmmentel",
             "repo": "awesome-python-chemistry",
-            "stars": 1434,
+            "stars": 1435,
             "topics": [
               "atomistic-simulations",
               "chemistry",
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:51:17.631Z",
+    "last_updated": "2026-08-29T09:37:12.378Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for machine learning for small-molecule drug discovery",

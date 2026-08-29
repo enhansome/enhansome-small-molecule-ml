@@ -60,7 +60,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 
 ### Generative algorithms
 
-* Zhou et al, 2019. [Optimization of Molecules via Deep Reinforcement Learning](https://doi.org/10.1038/s41598-019-47148-x). \[[Code (official version)](https://github.com/google-research/google-research/tree/master/mol_dqn) ⭐ 38,643 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-27] \[[PyTorch implementation](https://github.com/aksub99/MolDQN-pytorch) ⭐ 84 | 🐛 7 | 🌐 Python | 📅 2023-03-24]
+* Zhou et al, 2019. [Optimization of Molecules via Deep Reinforcement Learning](https://doi.org/10.1038/s41598-019-47148-x). \[[Code (official version)](https://github.com/google-research/google-research/tree/master/mol_dqn) ⭐ 38,644 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-27] \[[PyTorch implementation](https://github.com/aksub99/MolDQN-pytorch) ⭐ 84 | 🐛 7 | 🌐 Python | 📅 2023-03-24]
 * Bengio et al, 2021. [Flow Network based Generative Models for Non-Iterative Diverse Candidate Generation](https://arxiv.org/abs/2106.04399). \[[Code](https://github.com/bengioe/gflownet) ⭐ 686 | 🐛 9 | 🌐 Python | 📅 2023-02-28]
 * Jin et al, 2018. [Junction Tree Variational Autoencoder for Molecular Graph Generation](https://arxiv.org/abs/1802.04364). \[[Code](https://github.com/wengong-jin/icml18-jtnn) ⭐ 565 | 🐛 30 | 🌐 Python | 📅 2022-12-01]
 * Brown, 2019. [GuacaMol: Benchmarking Models for de Novo Molecular Design](https://doi.org/10.1021/acs.jcim.8b00839). \[[Code](https://github.com/BenevolentAI/guacamol) ⭐ 531 | 🐛 13 | 🌐 Python | 📅 2024-02-11]
@@ -192,7 +192,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 
 * [deeplearning-biology](https://github.com/hussius/deeplearning-biology#chemoinformatics-and-drug-discovery-) ⭐ 2,155 | 🐛 0 | 📅 2026-08-03
 * [Awesome Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning) ⭐ 1,990 | 🐛 0 | 📅 2022-04-04
-* [Awesome Python Chemistry](https://github.com/lmmentel/awesome-python-chemistry) ⭐ 1,434 | 🐛 10 | 📅 2025-09-21
+* [Awesome Python Chemistry](https://github.com/lmmentel/awesome-python-chemistry) ⭐ 1,435 | 🐛 10 | 📅 2025-09-21
 * [Awesome Cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) ⭐ 880 | 🐛 35 | 📅 2024-03-15
 * [Awesome Drug Discovery](https://github.com/xnuohz/awesome-drug-discovery) ⭐ 43 | 🐛 2 | 📅 2021-11-15
 
