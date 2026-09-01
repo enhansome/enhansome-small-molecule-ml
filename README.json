@@ -45,10 +45,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-21T20:08:40Z",
-                "open_issues": 15,
+                "open_issues": 17,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2443,
+                "stars": 2444,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -302,11 +302,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-31T07:36:52Z",
+                "last_commit": "2026-08-31T14:53:17Z",
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38658,
+                "stars": 38664,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -593,7 +593,7 @@
                 "open_issues": 8,
                 "owner": "dockstring",
                 "repo": "dockstring",
-                "stars": 189,
+                "stars": 190,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -915,7 +915,7 @@
             "open_issues": 1169,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 6969,
+            "stars": 6970,
             "topics": [
               "biology",
               "deep-learning",
@@ -940,10 +940,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-08-21T20:08:40Z",
-            "open_issues": 15,
+            "open_issues": 17,
             "owner": "chemprop",
             "repo": "chemprop",
-            "stars": 2443,
+            "stars": 2444,
             "topics": [
               "chemistry",
               "drug-discovery",
@@ -1075,7 +1075,7 @@
             "open_issues": 35,
             "owner": "hsiaoyi0504",
             "repo": "awesome-cheminformatics",
-            "stars": 880,
+            "stars": 881,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T09:09:51.756Z",
+    "last_updated": "2026-09-01T08:10:18.488Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for machine learning for small-molecule drug discovery",
