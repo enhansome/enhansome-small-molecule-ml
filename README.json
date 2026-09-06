@@ -48,7 +48,7 @@
                 "open_issues": 18,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2454,
+                "stars": 2455,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -303,10 +303,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-03T08:28:07Z",
-                "open_issues": 1989,
+                "open_issues": 1990,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38691,
+                "stars": 38693,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -915,7 +915,7 @@
             "open_issues": 1177,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 6975,
+            "stars": 6976,
             "topics": [
               "biology",
               "deep-learning",
@@ -943,7 +943,7 @@
             "open_issues": 18,
             "owner": "chemprop",
             "repo": "chemprop",
-            "stars": 2454,
+            "stars": 2455,
             "topics": [
               "chemistry",
               "drug-discovery",
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T07:16:05.308Z",
+    "last_updated": "2026-09-06T07:28:33.515Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for machine learning for small-molecule drug discovery",
@@ -1128,7 +1128,7 @@
       "open_issues": 5,
       "owner": "benb111",
       "repo": "awesome-small-molecule-ml",
-      "stars": 242,
+      "stars": 243,
       "topics": [
         "awesome",
         "awesome-list",
