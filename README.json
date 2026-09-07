@@ -45,10 +45,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-01T22:43:41Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2455,
+                "stars": 2458,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -306,7 +306,7 @@
                 "open_issues": 1990,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38693,
+                "stars": 38703,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -539,7 +539,7 @@
                 "open_issues": 8,
                 "owner": "HannesStark",
                 "repo": "EquiBind",
-                "stars": 546,
+                "stars": 547,
                 "topics": [
                   "drug-discovery",
                   "equivariance",
@@ -940,10 +940,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T22:43:41Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "chemprop",
             "repo": "chemprop",
-            "stars": 2455,
+            "stars": 2458,
             "topics": [
               "chemistry",
               "drug-discovery",
@@ -1046,7 +1046,7 @@
             "open_issues": 10,
             "owner": "lmmentel",
             "repo": "awesome-python-chemistry",
-            "stars": 1437,
+            "stars": 1438,
             "topics": [
               "atomistic-simulations",
               "chemistry",
@@ -1075,7 +1075,7 @@
             "open_issues": 36,
             "owner": "hsiaoyi0504",
             "repo": "awesome-cheminformatics",
-            "stars": 884,
+            "stars": 885,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T07:28:33.515Z",
+    "last_updated": "2026-09-07T07:45:04.043Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for machine learning for small-molecule drug discovery",
