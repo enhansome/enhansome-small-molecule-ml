@@ -21,7 +21,7 @@
                 "open_issues": 101,
                 "owner": "microsoft",
                 "repo": "Graphormer",
-                "stars": 2474,
+                "stars": 2472,
                 "topics": [
                   "ai4science",
                   "deep-learning",
@@ -98,7 +98,7 @@
                 "open_issues": 5,
                 "owner": "vgsatorras",
                 "repo": "egnn",
-                "stars": 547,
+                "stars": 546,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -302,11 +302,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T16:12:34Z",
+                "last_commit": "2026-09-08T09:22:17Z",
                 "open_issues": 1990,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38712,
+                "stars": 38715,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -331,7 +331,7 @@
                 "open_issues": 9,
                 "owner": "GFNOrg",
                 "repo": "gflownet",
-                "stars": 687,
+                "stars": 685,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -432,7 +432,7 @@
                 "id": 203729484,
                 "language": "Jupyter Notebook",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-28T12:23:33Z",
+                "last_commit": "2026-09-08T15:22:20Z",
                 "open_issues": 5,
                 "owner": "DrrDom",
                 "repo": "crem",
@@ -912,10 +912,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-20T19:01:34Z",
-            "open_issues": 1180,
+            "open_issues": 1174,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 6978,
+            "stars": 6980,
             "topics": [
               "biology",
               "deep-learning",
@@ -1046,7 +1046,7 @@
             "open_issues": 10,
             "owner": "lmmentel",
             "repo": "awesome-python-chemistry",
-            "stars": 1439,
+            "stars": 1440,
             "topics": [
               "atomistic-simulations",
               "chemistry",
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T07:39:01.495Z",
+    "last_updated": "2026-09-09T07:43:51.767Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for machine learning for small-molecule drug discovery",
