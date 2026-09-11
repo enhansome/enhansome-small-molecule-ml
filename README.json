@@ -45,7 +45,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-01T22:43:41Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "chemprop",
                 "repo": "chemprop",
                 "stars": 2462,
@@ -303,10 +303,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-10T00:21:25Z",
-                "open_issues": 1991,
+                "open_issues": 1992,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38722,
+                "stars": 38730,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -912,10 +912,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-20T19:01:34Z",
-            "open_issues": 1174,
+            "open_issues": 1175,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 6982,
+            "stars": 6988,
             "topics": [
               "biology",
               "deep-learning",
@@ -940,7 +940,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T22:43:41Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "chemprop",
             "repo": "chemprop",
             "stars": 2462,
@@ -1017,7 +1017,7 @@
             "open_issues": 0,
             "owner": "AstraZeneca",
             "repo": "awesome-explainable-graph-reasoning",
-            "stars": 1990,
+            "stars": 1991,
             "topics": [
               "awesome-list",
               "deep-learning",
@@ -1046,7 +1046,7 @@
             "open_issues": 10,
             "owner": "lmmentel",
             "repo": "awesome-python-chemistry",
-            "stars": 1439,
+            "stars": 1440,
             "topics": [
               "atomistic-simulations",
               "chemistry",
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T07:43:31.265Z",
+    "last_updated": "2026-09-11T07:38:48.381Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for machine learning for small-molecule drug discovery",
