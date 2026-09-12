@@ -45,10 +45,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-01T22:43:41Z",
-                "open_issues": 22,
+                "open_issues": 21,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2462,
+                "stars": 2463,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -306,7 +306,7 @@
                 "open_issues": 1992,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38730,
+                "stars": 38740,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -915,7 +915,7 @@
             "open_issues": 1175,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 6988,
+            "stars": 6989,
             "topics": [
               "biology",
               "deep-learning",
@@ -940,10 +940,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T22:43:41Z",
-            "open_issues": 22,
+            "open_issues": 21,
             "owner": "chemprop",
             "repo": "chemprop",
-            "stars": 2462,
+            "stars": 2463,
             "topics": [
               "chemistry",
               "drug-discovery",
@@ -996,7 +996,7 @@
             "open_issues": 0,
             "owner": "hussius",
             "repo": "deeplearning-biology",
-            "stars": 2157,
+            "stars": 2156,
             "topics": []
           },
           "first_seen": "2026-08-28T14:46:16.548Z"
@@ -1017,7 +1017,7 @@
             "open_issues": 0,
             "owner": "AstraZeneca",
             "repo": "awesome-explainable-graph-reasoning",
-            "stars": 1991,
+            "stars": 1990,
             "topics": [
               "awesome-list",
               "deep-learning",
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T07:38:48.381Z",
+    "last_updated": "2026-09-12T07:31:45.525Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for machine learning for small-molecule drug discovery",
