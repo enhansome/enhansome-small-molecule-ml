@@ -306,7 +306,7 @@
                 "open_issues": 1992,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38740,
+                "stars": 38744,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -539,7 +539,7 @@
                 "open_issues": 8,
                 "owner": "HannesStark",
                 "repo": "EquiBind",
-                "stars": 547,
+                "stars": 548,
                 "topics": [
                   "drug-discovery",
                   "equivariance",
@@ -912,10 +912,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-20T19:01:34Z",
-            "open_issues": 1175,
+            "open_issues": 1179,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 6989,
+            "stars": 6990,
             "topics": [
               "biology",
               "deep-learning",
@@ -992,7 +992,7 @@
             "id": 60209509,
             "language": null,
             "license": null,
-            "last_commit": "2026-08-03T16:05:10Z",
+            "last_commit": "2026-09-12T17:43:41Z",
             "open_issues": 0,
             "owner": "hussius",
             "repo": "deeplearning-biology",
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T07:31:45.525Z",
+    "last_updated": "2026-09-13T07:52:34.253Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for machine learning for small-molecule drug discovery",
