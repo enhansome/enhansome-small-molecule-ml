@@ -21,7 +21,7 @@
                 "open_issues": 101,
                 "owner": "microsoft",
                 "repo": "Graphormer",
-                "stars": 2472,
+                "stars": 2471,
                 "topics": [
                   "ai4science",
                   "deep-learning",
@@ -306,7 +306,7 @@
                 "open_issues": 1992,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38744,
+                "stars": 38752,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -712,7 +712,7 @@
                 "open_issues": 9,
                 "owner": "connorcoley",
                 "repo": "scscore",
-                "stars": 123,
+                "stars": 124,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -817,7 +817,7 @@
                 "open_issues": 5,
                 "owner": "coleygroup",
                 "repo": "ms-pred",
-                "stars": 153,
+                "stars": 154,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -915,7 +915,7 @@
             "open_issues": 1179,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 6990,
+            "stars": 6993,
             "topics": [
               "biology",
               "deep-learning",
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T07:52:34.253Z",
+    "last_updated": "2026-09-14T08:24:50.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for machine learning for small-molecule drug discovery",
