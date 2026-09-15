@@ -303,10 +303,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-10T00:21:25Z",
-                "open_issues": 1992,
+                "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38752,
+                "stars": 38765,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -373,7 +373,7 @@
                 "open_issues": 13,
                 "owner": "BenevolentAI",
                 "repo": "guacamol",
-                "stars": 532,
+                "stars": 533,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -432,7 +432,7 @@
                 "id": 203729484,
                 "language": "Jupyter Notebook",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-08T15:22:20Z",
+                "last_commit": "2026-09-14T17:45:09Z",
                 "open_issues": 5,
                 "owner": "DrrDom",
                 "repo": "crem",
@@ -539,7 +539,7 @@
                 "open_issues": 8,
                 "owner": "HannesStark",
                 "repo": "EquiBind",
-                "stars": 548,
+                "stars": 549,
                 "topics": [
                   "drug-discovery",
                   "equivariance",
@@ -817,7 +817,7 @@
                 "open_issues": 5,
                 "owner": "coleygroup",
                 "repo": "ms-pred",
-                "stars": 154,
+                "stars": 155,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -912,10 +912,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-20T19:01:34Z",
-            "open_issues": 1179,
+            "open_issues": 1181,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 6993,
+            "stars": 6996,
             "topics": [
               "biology",
               "deep-learning",
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T08:24:50.836Z",
+    "last_updated": "2026-09-15T08:15:51.445Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for machine learning for small-molecule drug discovery",
