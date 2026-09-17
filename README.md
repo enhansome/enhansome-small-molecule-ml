@@ -38,7 +38,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 ### Representation, transfer learning, and few-shot learning
 
 * Ying et al, 2021. [Do Transformers Really Perform Bad for Graph Representation? (Graphormer paper)](https://arxiv.org/abs/2106.05234). \[[Code](https://github.com/microsoft/Graphormer) ⭐ 2,471 | 🐛 101 | 🌐 Python | 📅 2026-06-12]
-* Yang et al, 2019. [Analyzing Learned Molecular Representations for Property Prediction (Chemprop)](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00237). \[[Code](https://github.com/chemprop/chemprop) ⭐ 2,465 | 🐛 21 | 🌐 Python | 📅 2026-09-01]
+* Yang et al, 2019. [Analyzing Learned Molecular Representations for Property Prediction (Chemprop)](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00237). \[[Code](https://github.com/chemprop/chemprop) ⭐ 2,465 | 🐛 20 | 🌐 Python | 📅 2026-09-01]
 * Hu et al, 2019. [Strategies for Pre-training Graph Neural Networks](https://arxiv.org/abs/1905.12265). \[[Code](https://github.com/snap-stanford/pretrain-gnns) ⭐ 1,070 | 🐛 39 | 🌐 Python | 📅 2023-07-29]
 * Satorras et al, 2021. [E(n) Equivariant Graph Neural Networks](https://arxiv.org/abs/2102.09844). \[[Code](https://github.com/vgsatorras/egnn) ⭐ 546 | 🐛 5 | 🌐 Python | 📅 2022-02-23]
 * Ahmad et al, 2021. [ChemBERTa-2: Towards Chemical Foundation Models](https://cloud.ml.jku.at/s/dZ7CwqBkHX97C6S). \[[Code](https://github.com/seyonechithrananda/bert-loves-chemistry) ⭐ 501 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2024-10-27]
@@ -60,13 +60,13 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 
 ### Generative algorithms
 
-* Zhou et al, 2019. [Optimization of Molecules via Deep Reinforcement Learning](https://doi.org/10.1038/s41598-019-47148-x). \[[Code (official version)](https://github.com/google-research/google-research/tree/master/mol_dqn) ⭐ 38,772 | 🐛 1,994 | 🌐 Jupyter Notebook | 📅 2026-09-15] \[[PyTorch implementation](https://github.com/aksub99/MolDQN-pytorch) ⭐ 85 | 🐛 7 | 🌐 Python | 📅 2023-03-24]
+* Zhou et al, 2019. [Optimization of Molecules via Deep Reinforcement Learning](https://doi.org/10.1038/s41598-019-47148-x). \[[Code (official version)](https://github.com/google-research/google-research/tree/master/mol_dqn) ⭐ 38,779 | 🐛 1,994 | 🌐 Jupyter Notebook | 📅 2026-09-16] \[[PyTorch implementation](https://github.com/aksub99/MolDQN-pytorch) ⭐ 85 | 🐛 7 | 🌐 Python | 📅 2023-03-24]
 * Bengio et al, 2021. [Flow Network based Generative Models for Non-Iterative Diverse Candidate Generation](https://arxiv.org/abs/2106.04399). \[[Code](https://github.com/bengioe/gflownet) ⭐ 685 | 🐛 9 | 🌐 Python | 📅 2023-02-28]
 * Jin et al, 2018. [Junction Tree Variational Autoencoder for Molecular Graph Generation](https://arxiv.org/abs/1802.04364). \[[Code](https://github.com/wengong-jin/icml18-jtnn) ⭐ 566 | 🐛 30 | 🌐 Python | 📅 2022-12-01]
 * Brown, 2019. [GuacaMol: Benchmarking Models for de Novo Molecular Design](https://doi.org/10.1021/acs.jcim.8b00839). \[[Code](https://github.com/BenevolentAI/guacamol) ⭐ 533 | 🐛 13 | 🌐 Python | 📅 2024-02-11]
 * Jin et al, 2020. [Hierarchical Generation of Molecular Graphs using Structural Motifs](https://arxiv.org/abs/2002.03230). \[[Code](https://github.com/wengong-jin/hgraph2graph) ⭐ 444 | 🐛 44 | 🌐 Python | 📅 2022-06-28]
 * You et al, 2019. [Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation](https://arxiv.org/abs/1806.02473). \[[Code](https://github.com/bowenliu16/rl_graph_generation) ⭐ 359 | 🐛 10 | 🌐 Python | 📅 2022-10-12]
-* Polishchuk, 2020. [CReM: chemically reasonable mutations framework for structure generation](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00431-w). \[[Code](https://github.com/DrrDom/crem) ⭐ 286 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-09-14]
+* Polishchuk, 2020. [CReM: chemically reasonable mutations framework for structure generation](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00431-w). \[[Code](https://github.com/DrrDom/crem) ⭐ 286 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-09-17]
 * Imrie et al, 2020. [Deep Generative Models for 3D Linker Design](https://pubs.acs.org/doi/10.1021/acs.jcim.9b01120). \[[Code](https://github.com/oxpig/DeLinker) ⭐ 139 | 🐛 1 | 🌐 Python | 📅 2022-11-06]
 * Gao et al, 2021. [Amortized Tree Generation for Bottom-up Synthesis Planning and Synthesizable Molecular Design](https://arxiv.org/abs/2110.06389). \[[Code](https://github.com/wenhao-gao/SynNet) ⭐ 99 | 🐛 2 | 🌐 Python | 📅 2022-12-19]
 * Berenger and Tsuda, 2021. [Molecular generation by Fast Assembly of (Deep)SMILES fragments](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00566-4). \[[Code](https://github.com/UnixJunkie/FASMIFRA) ⭐ 57 | 🐛 5 | 🌐 OCaml | 📅 2024-10-31]
@@ -130,7 +130,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 
 ### MS/MS prediction
 
-* Goldman el al, 2023. [Prefix-Tree Decoding for Predicting Mass Spectra from Molecules](https://arxiv.org/abs/2303.06470). \[[Code](https://github.com/samgoldman97/ms-pred) ⭐ 155 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2026-09-04]
+* Goldman el al, 2023. [Prefix-Tree Decoding for Predicting Mass Spectra from Molecules](https://arxiv.org/abs/2303.06470). \[[Code](https://github.com/samgoldman97/ms-pred) ⭐ 155 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-09-16]
 * Wei et al, 2019. [Rapid Prediction of Electron–Ionization Mass Spectrometry Using Neural Networks](https://pubs.acs.org/doi/10.1021/acscentsci.9b00085). \[[Code](https://github.com/brain-research/deep-molecular-massspec) ⚠️ Archived]
 * Young et al, 2023. [MassFormer: Tandem Mass Spectrum Prediction for Small Molecules using Graph Transformers](https://arxiv.org/abs/2111.04824). \[[Code](https://github.com/Roestlab/massformer) ⭐ 100 | 🐛 2 | 🌐 Python | 📅 2024-08-26]
 * Hong et al, 2023. [3DMolMS: prediction of tandem mass spectra from 3D molecular conformations](https://academic.oup.com/bioinformatics/article/39/6/btad354/7186501). \[[Code](https://github.com/JosieHong/3DMolMS) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2026-08-12]
@@ -159,7 +159,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 ## Frameworks, Libraries, and Software Tools
 
 * [DeepChem](https://deepchem.io/) \[[Tutorials](https://github.com/deepchem/deepchem/tree/master/examples/tutorials) ⭐ 6,999 | 🐛 1,182 | 🌐 Python | 📅 2026-08-20]
-* [Chemprop](https://github.com/chemprop/chemprop) ⭐ 2,465 | 🐛 21 | 🌐 Python | 📅 2026-09-01
+* [Chemprop](https://github.com/chemprop/chemprop) ⭐ 2,465 | 🐛 20 | 🌐 Python | 📅 2026-09-01
 * [rd\_filters](https://github.com/PatWalters/rd_filters) ⭐ 172 | 🐛 6 | 🌐 Python | 📅 2026-02-17
 * [AutoDock Vina](https://autodock-vina.readthedocs.io/en/latest/index.html)
 * [BioPandas](http://rasbt.github.io/biopandas/)
@@ -198,4 +198,4 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
