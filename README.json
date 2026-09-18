@@ -48,7 +48,7 @@
                 "open_issues": 20,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2465,
+                "stars": 2466,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -98,7 +98,7 @@
                 "open_issues": 5,
                 "owner": "vgsatorras",
                 "repo": "egnn",
-                "stars": 546,
+                "stars": 547,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -119,7 +119,7 @@
                 "open_issues": 10,
                 "owner": "seyonechithrananda",
                 "repo": "bert-loves-chemistry",
-                "stars": 501,
+                "stars": 502,
                 "topics": [
                   "bert",
                   "chemical-modelling",
@@ -166,7 +166,7 @@
                 "open_issues": 11,
                 "owner": "yuyangw",
                 "repo": "MolCLR",
-                "stars": 326,
+                "stars": 325,
                 "topics": [
                   "deep-learning",
                   "graph-neural-networks",
@@ -306,7 +306,7 @@
                 "open_issues": 1994,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38779,
+                "stars": 38786,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -430,9 +430,9 @@
                 "description": "CReM: chemically reasonable mutations framework",
                 "homepage": null,
                 "id": 203729484,
-                "language": "Jupyter Notebook",
+                "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-17T06:19:29Z",
+                "last_commit": "2026-09-18T03:54:22Z",
                 "open_issues": 5,
                 "owner": "DrrDom",
                 "repo": "crem",
@@ -817,7 +817,7 @@
                 "open_issues": 5,
                 "owner": "coleygroup",
                 "repo": "ms-pred",
-                "stars": 155,
+                "stars": 156,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -859,7 +859,7 @@
                 "open_issues": 2,
                 "owner": "Roestlab",
                 "repo": "massformer",
-                "stars": 100,
+                "stars": 101,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -912,10 +912,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-20T19:01:34Z",
-            "open_issues": 1182,
+            "open_issues": 1180,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 6999,
+            "stars": 7003,
             "topics": [
               "biology",
               "deep-learning",
@@ -943,7 +943,7 @@
             "open_issues": 20,
             "owner": "chemprop",
             "repo": "chemprop",
-            "stars": 2465,
+            "stars": 2466,
             "topics": [
               "chemistry",
               "drug-discovery",
@@ -1046,7 +1046,7 @@
             "open_issues": 10,
             "owner": "lmmentel",
             "repo": "awesome-python-chemistry",
-            "stars": 1440,
+            "stars": 1441,
             "topics": [
               "atomistic-simulations",
               "chemistry",
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T08:16:17.691Z",
+    "last_updated": "2026-09-18T07:49:59.419Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for machine learning for small-molecule drug discovery",
