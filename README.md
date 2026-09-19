@@ -60,13 +60,13 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 
 ### Generative algorithms
 
-* Zhou et al, 2019. [Optimization of Molecules via Deep Reinforcement Learning](https://doi.org/10.1038/s41598-019-47148-x). \[[Code (official version)](https://github.com/google-research/google-research/tree/master/mol_dqn) ⭐ 38,786 | 🐛 1,994 | 🌐 Jupyter Notebook | 📅 2026-09-16] \[[PyTorch implementation](https://github.com/aksub99/MolDQN-pytorch) ⭐ 85 | 🐛 7 | 🌐 Python | 📅 2023-03-24]
+* Zhou et al, 2019. [Optimization of Molecules via Deep Reinforcement Learning](https://doi.org/10.1038/s41598-019-47148-x). \[[Code (official version)](https://github.com/google-research/google-research/tree/master/mol_dqn) ⭐ 38,789 | 🐛 1,995 | 🌐 Jupyter Notebook | 📅 2026-09-16] \[[PyTorch implementation](https://github.com/aksub99/MolDQN-pytorch) ⭐ 85 | 🐛 7 | 🌐 Python | 📅 2023-03-24]
 * Bengio et al, 2021. [Flow Network based Generative Models for Non-Iterative Diverse Candidate Generation](https://arxiv.org/abs/2106.04399). \[[Code](https://github.com/bengioe/gflownet) ⭐ 685 | 🐛 9 | 🌐 Python | 📅 2023-02-28]
-* Jin et al, 2018. [Junction Tree Variational Autoencoder for Molecular Graph Generation](https://arxiv.org/abs/1802.04364). \[[Code](https://github.com/wengong-jin/icml18-jtnn) ⭐ 566 | 🐛 30 | 🌐 Python | 📅 2022-12-01]
+* Jin et al, 2018. [Junction Tree Variational Autoencoder for Molecular Graph Generation](https://arxiv.org/abs/1802.04364). \[[Code](https://github.com/wengong-jin/icml18-jtnn) ⭐ 567 | 🐛 30 | 🌐 Python | 📅 2022-12-01]
 * Brown, 2019. [GuacaMol: Benchmarking Models for de Novo Molecular Design](https://doi.org/10.1021/acs.jcim.8b00839). \[[Code](https://github.com/BenevolentAI/guacamol) ⭐ 533 | 🐛 13 | 🌐 Python | 📅 2024-02-11]
 * Jin et al, 2020. [Hierarchical Generation of Molecular Graphs using Structural Motifs](https://arxiv.org/abs/2002.03230). \[[Code](https://github.com/wengong-jin/hgraph2graph) ⭐ 444 | 🐛 44 | 🌐 Python | 📅 2022-06-28]
 * You et al, 2019. [Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation](https://arxiv.org/abs/1806.02473). \[[Code](https://github.com/bowenliu16/rl_graph_generation) ⭐ 359 | 🐛 10 | 🌐 Python | 📅 2022-10-12]
-* Polishchuk, 2020. [CReM: chemically reasonable mutations framework for structure generation](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00431-w). \[[Code](https://github.com/DrrDom/crem) ⭐ 286 | 🐛 5 | 🌐 Python | 📅 2026-09-18]
+* Polishchuk, 2020. [CReM: chemically reasonable mutations framework for structure generation](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00431-w). \[[Code](https://github.com/DrrDom/crem) ⭐ 287 | 🐛 5 | 🌐 Python | 📅 2026-09-18]
 * Imrie et al, 2020. [Deep Generative Models for 3D Linker Design](https://pubs.acs.org/doi/10.1021/acs.jcim.9b01120). \[[Code](https://github.com/oxpig/DeLinker) ⭐ 139 | 🐛 1 | 🌐 Python | 📅 2022-11-06]
 * Gao et al, 2021. [Amortized Tree Generation for Bottom-up Synthesis Planning and Synthesizable Molecular Design](https://arxiv.org/abs/2110.06389). \[[Code](https://github.com/wenhao-gao/SynNet) ⭐ 99 | 🐛 2 | 🌐 Python | 📅 2022-12-19]
 * Berenger and Tsuda, 2021. [Molecular generation by Fast Assembly of (Deep)SMILES fragments](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00566-4). \[[Code](https://github.com/UnixJunkie/FASMIFRA) ⭐ 57 | 🐛 5 | 🌐 OCaml | 📅 2024-10-31]
@@ -105,7 +105,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 ### Synthetic accessability and retrosynthetic planning
 
 * Dai et al, 2019. [Retrosynthesis Prediction with Conditional Graph Logic Network](https://arxiv.org/abs/2001.01408). \[[Code](https://github.com/Hanjun-Dai/GLN) ⭐ 143 | 🐛 7 | 🌐 Python | 📅 2022-12-10]
-* Coley et al, 2018. [SCScore: Synthetic Complexity Learned from a Reaction Corpus](https://pubs.acs.org/doi/10.1021/acs.jcim.7b00622). \[[Code](https://github.com/connorcoley/scscore) ⭐ 124 | 🐛 9 | 🌐 Roff | 📅 2021-01-20] \[[DeepChem implementation](https://github.com/deepchem/deepchem/blob/master/deepchem/models/scscore.py) ⭐ 7,003 | 🐛 1,180 | 🌐 Python | 📅 2026-08-20]
+* Coley et al, 2018. [SCScore: Synthetic Complexity Learned from a Reaction Corpus](https://pubs.acs.org/doi/10.1021/acs.jcim.7b00622). \[[Code](https://github.com/connorcoley/scscore) ⭐ 124 | 🐛 9 | 🌐 Roff | 📅 2021-01-20] \[[DeepChem implementation](https://github.com/deepchem/deepchem/blob/master/deepchem/models/scscore.py) ⭐ 7,004 | 🐛 1,180 | 🌐 Python | 📅 2026-08-20]
 * Fortunato et al, 2020. [Data augmentation and pretraining for template-based retrosynthetic prediction in computer-aided synthesis planning](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00403).
 * Koch et al, 2020. [Reinforcement Learning for Bioretrosynthesis](https://pubs.acs.org/doi/10.1021/acssynbio.9b00447).
 * Somnath et al, 2020. [Learning Graph Models for Retrosynthesis Prediction](https://arxiv.org/abs/2006.07038).
@@ -158,7 +158,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 
 ## Frameworks, Libraries, and Software Tools
 
-* [DeepChem](https://deepchem.io/) \[[Tutorials](https://github.com/deepchem/deepchem/tree/master/examples/tutorials) ⭐ 7,003 | 🐛 1,180 | 🌐 Python | 📅 2026-08-20]
+* [DeepChem](https://deepchem.io/) \[[Tutorials](https://github.com/deepchem/deepchem/tree/master/examples/tutorials) ⭐ 7,004 | 🐛 1,180 | 🌐 Python | 📅 2026-08-20]
 * [Chemprop](https://github.com/chemprop/chemprop) ⭐ 2,466 | 🐛 20 | 🌐 Python | 📅 2026-09-01
 * [rd\_filters](https://github.com/PatWalters/rd_filters) ⭐ 172 | 🐛 6 | 🌐 Python | 📅 2026-02-17
 * [AutoDock Vina](https://autodock-vina.readthedocs.io/en/latest/index.html)
@@ -198,4 +198,4 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._

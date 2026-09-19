@@ -303,10 +303,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T19:46:42Z",
-                "open_issues": 1994,
+                "open_issues": 1995,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38786,
+                "stars": 38789,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -352,7 +352,7 @@
                 "open_issues": 30,
                 "owner": "wengong-jin",
                 "repo": "icml18-jtnn",
-                "stars": 566,
+                "stars": 567,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -436,7 +436,7 @@
                 "open_issues": 5,
                 "owner": "DrrDom",
                 "repo": "crem",
-                "stars": 286,
+                "stars": 287,
                 "topics": [
                   "chemical-space",
                   "chemoinformatics"
@@ -915,7 +915,7 @@
             "open_issues": 1180,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 7003,
+            "stars": 7004,
             "topics": [
               "biology",
               "deep-learning",
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T07:49:59.419Z",
+    "last_updated": "2026-09-19T07:41:50.712Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for machine learning for small-molecule drug discovery",
