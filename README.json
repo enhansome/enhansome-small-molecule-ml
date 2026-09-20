@@ -21,7 +21,7 @@
                 "open_issues": 101,
                 "owner": "microsoft",
                 "repo": "Graphormer",
-                "stars": 2471,
+                "stars": 2473,
                 "topics": [
                   "ai4science",
                   "deep-learning",
@@ -48,7 +48,7 @@
                 "open_issues": 20,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2466,
+                "stars": 2468,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -74,7 +74,7 @@
                 "open_issues": 39,
                 "owner": "snap-stanford",
                 "repo": "pretrain-gnns",
-                "stars": 1070,
+                "stars": 1071,
                 "topics": [
                   "graph-neural-networks",
                   "graph-representation-learning"
@@ -306,7 +306,7 @@
                 "open_issues": 1995,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38789,
+                "stars": 38798,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -817,7 +817,7 @@
                 "open_issues": 5,
                 "owner": "coleygroup",
                 "repo": "ms-pred",
-                "stars": 156,
+                "stars": 157,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -915,7 +915,7 @@
             "open_issues": 1180,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 7004,
+            "stars": 7006,
             "topics": [
               "biology",
               "deep-learning",
@@ -943,7 +943,7 @@
             "open_issues": 20,
             "owner": "chemprop",
             "repo": "chemprop",
-            "stars": 2466,
+            "stars": 2468,
             "topics": [
               "chemistry",
               "drug-discovery",
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T07:41:50.712Z",
+    "last_updated": "2026-09-20T08:09:56.235Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for machine learning for small-molecule drug discovery",
