@@ -48,7 +48,7 @@
                 "open_issues": 20,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2468,
+                "stars": 2469,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -98,7 +98,7 @@
                 "open_issues": 5,
                 "owner": "vgsatorras",
                 "repo": "egnn",
-                "stars": 547,
+                "stars": 548,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -145,7 +145,7 @@
                 "open_issues": 19,
                 "owner": "tencent-ailab",
                 "repo": "grover",
-                "stars": 394,
+                "stars": 395,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -306,7 +306,7 @@
                 "open_issues": 1995,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38798,
+                "stars": 38807,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -814,7 +814,7 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-09-16T22:06:12Z",
-                "open_issues": 5,
+                "open_issues": 7,
                 "owner": "coleygroup",
                 "repo": "ms-pred",
                 "stars": 157,
@@ -943,7 +943,7 @@
             "open_issues": 20,
             "owner": "chemprop",
             "repo": "chemprop",
-            "stars": 2468,
+            "stars": 2469,
             "topics": [
               "chemistry",
               "drug-discovery",
@@ -996,7 +996,7 @@
             "open_issues": 0,
             "owner": "hussius",
             "repo": "deeplearning-biology",
-            "stars": 2156,
+            "stars": 2158,
             "topics": []
           },
           "first_seen": "2026-08-28T14:46:16.548Z"
@@ -1075,7 +1075,7 @@
             "open_issues": 36,
             "owner": "hsiaoyi0504",
             "repo": "awesome-cheminformatics",
-            "stars": 886,
+            "stars": 887,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T08:09:56.235Z",
+    "last_updated": "2026-09-21T08:26:20.343Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for machine learning for small-molecule drug discovery",
