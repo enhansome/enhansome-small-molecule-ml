@@ -17,8 +17,8 @@
                 "id": 371257414,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-24T21:22:27Z",
-                "open_issues": 101,
+                "last_commit": "2026-09-26T01:05:56Z",
+                "open_issues": 102,
                 "owner": "microsoft",
                 "repo": "Graphormer",
                 "stars": 2476,
@@ -306,7 +306,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38831,
+                "stars": 38832,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -373,7 +373,7 @@
                 "open_issues": 13,
                 "owner": "BenevolentAI",
                 "repo": "guacamol",
-                "stars": 533,
+                "stars": 534,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -912,10 +912,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-20T19:01:34Z",
-            "open_issues": 1186,
+            "open_issues": 1187,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 7015,
+            "stars": 7018,
             "topics": [
               "biology",
               "deep-learning",
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T08:25:02.052Z",
+    "last_updated": "2026-09-26T08:12:00.324Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for machine learning for small-molecule drug discovery",
