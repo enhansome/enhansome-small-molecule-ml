@@ -331,7 +331,7 @@
                 "open_issues": 9,
                 "owner": "GFNOrg",
                 "repo": "gflownet",
-                "stars": 684,
+                "stars": 683,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -912,10 +912,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-20T19:01:34Z",
-            "open_issues": 1187,
+            "open_issues": 1194,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 7018,
+            "stars": 7019,
             "topics": [
               "biology",
               "deep-learning",
@@ -1017,7 +1017,7 @@
             "open_issues": 0,
             "owner": "AstraZeneca",
             "repo": "awesome-explainable-graph-reasoning",
-            "stars": 1990,
+            "stars": 1991,
             "topics": [
               "awesome-list",
               "deep-learning",
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T08:12:00.324Z",
+    "last_updated": "2026-09-27T08:49:10.423Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for machine learning for small-molecule drug discovery",
