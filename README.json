@@ -48,7 +48,7 @@
                 "open_issues": 20,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2469,
+                "stars": 2470,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -306,7 +306,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38832,
+                "stars": 38836,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -394,7 +394,7 @@
                 "open_issues": 44,
                 "owner": "wengong-jin",
                 "repo": "hgraph2graph",
-                "stars": 444,
+                "stars": 445,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -915,7 +915,7 @@
             "open_issues": 1194,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 7019,
+            "stars": 7020,
             "topics": [
               "biology",
               "deep-learning",
@@ -943,7 +943,7 @@
             "open_issues": 20,
             "owner": "chemprop",
             "repo": "chemprop",
-            "stars": 2469,
+            "stars": 2470,
             "topics": [
               "chemistry",
               "drug-discovery",
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T08:49:10.423Z",
+    "last_updated": "2026-09-28T09:12:36.172Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for machine learning for small-molecule drug discovery",
