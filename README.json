@@ -306,7 +306,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38836,
+                "stars": 38846,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -912,10 +912,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-20T19:01:34Z",
-            "open_issues": 1194,
+            "open_issues": 1204,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 7020,
+            "stars": 7023,
             "topics": [
               "biology",
               "deep-learning",
@@ -996,7 +996,7 @@
             "open_issues": 0,
             "owner": "hussius",
             "repo": "deeplearning-biology",
-            "stars": 2158,
+            "stars": 2159,
             "topics": []
           },
           "first_seen": "2026-08-28T14:46:16.548Z"
@@ -1046,7 +1046,7 @@
             "open_issues": 10,
             "owner": "lmmentel",
             "repo": "awesome-python-chemistry",
-            "stars": 1442,
+            "stars": 1443,
             "topics": [
               "atomistic-simulations",
               "chemistry",
@@ -1072,7 +1072,7 @@
             "language": null,
             "license": null,
             "last_commit": "2024-03-15T00:55:18Z",
-            "open_issues": 36,
+            "open_issues": 35,
             "owner": "hsiaoyi0504",
             "repo": "awesome-cheminformatics",
             "stars": 887,
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T09:12:36.172Z",
+    "last_updated": "2026-09-29T09:21:02.494Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for machine learning for small-molecule drug discovery",
