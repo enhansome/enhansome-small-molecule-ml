@@ -45,10 +45,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-01T22:43:41Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2470,
+                "stars": 2473,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -98,7 +98,7 @@
                 "open_issues": 5,
                 "owner": "vgsatorras",
                 "repo": "egnn",
-                "stars": 549,
+                "stars": 550,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -302,11 +302,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T21:53:54Z",
+                "last_commit": "2026-09-30T21:03:49Z",
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38852,
+                "stars": 38856,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -352,7 +352,7 @@
                 "open_issues": 30,
                 "owner": "wengong-jin",
                 "repo": "icml18-jtnn",
-                "stars": 567,
+                "stars": 566,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -539,7 +539,7 @@
                 "open_issues": 8,
                 "owner": "HannesStark",
                 "repo": "EquiBind",
-                "stars": 549,
+                "stars": 550,
                 "topics": [
                   "drug-discovery",
                   "equivariance",
@@ -912,10 +912,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-20T19:01:34Z",
-            "open_issues": 1206,
+            "open_issues": 1209,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 7023,
+            "stars": 7025,
             "topics": [
               "biology",
               "deep-learning",
@@ -940,10 +940,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T22:43:41Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "chemprop",
             "repo": "chemprop",
-            "stars": 2470,
+            "stars": 2473,
             "topics": [
               "chemistry",
               "drug-discovery",
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T09:11:33.996Z",
+    "last_updated": "2026-10-01T09:39:00.907Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for machine learning for small-molecule drug discovery",
