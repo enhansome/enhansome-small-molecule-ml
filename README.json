@@ -306,7 +306,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38856,
+                "stars": 38859,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -331,7 +331,7 @@
                 "open_issues": 9,
                 "owner": "GFNOrg",
                 "repo": "gflownet",
-                "stars": 683,
+                "stars": 684,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -912,10 +912,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-20T19:01:34Z",
-            "open_issues": 1209,
+            "open_issues": 1211,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 7025,
+            "stars": 7027,
             "topics": [
               "biology",
               "deep-learning",
@@ -1017,7 +1017,7 @@
             "open_issues": 0,
             "owner": "AstraZeneca",
             "repo": "awesome-explainable-graph-reasoning",
-            "stars": 1991,
+            "stars": 1992,
             "topics": [
               "awesome-list",
               "deep-learning",
@@ -1046,7 +1046,7 @@
             "open_issues": 10,
             "owner": "lmmentel",
             "repo": "awesome-python-chemistry",
-            "stars": 1443,
+            "stars": 1444,
             "topics": [
               "atomistic-simulations",
               "chemistry",
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T09:39:00.907Z",
+    "last_updated": "2026-10-02T09:13:16.522Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for machine learning for small-molecule drug discovery",
