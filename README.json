@@ -306,7 +306,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38863,
+                "stars": 38865,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -817,7 +817,7 @@
                 "open_issues": 4,
                 "owner": "coleygroup",
                 "repo": "ms-pred",
-                "stars": 162,
+                "stars": 163,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -912,7 +912,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-20T19:01:34Z",
-            "open_issues": 1210,
+            "open_issues": 1209,
             "owner": "deepchem",
             "repo": "deepchem",
             "stars": 7032,
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:06:52.913Z",
+    "last_updated": "2026-10-03T08:45:48.884Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for machine learning for small-molecule drug discovery",
