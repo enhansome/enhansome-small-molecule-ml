@@ -265,7 +265,7 @@
             {
               "node_type": "item",
               "title": "Nguyen et al., 2020. Meta-Learning GNN Initializations for Low-Resource Molecular Property Prediction",
-              "description": "[Code]",
+              "description": "GSK-AI/meta-learning-qsar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -306,7 +306,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38859,
+                "stars": 38863,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -817,7 +817,7 @@
                 "open_issues": 4,
                 "owner": "coleygroup",
                 "repo": "ms-pred",
-                "stars": 161,
+                "stars": 162,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -912,10 +912,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-20T19:01:34Z",
-            "open_issues": 1211,
+            "open_issues": 1210,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 7027,
+            "stars": 7032,
             "topics": [
               "biology",
               "deep-learning",
@@ -930,7 +930,7 @@
         {
           "node_type": "item",
           "title": "Chemprop",
-          "description": null,
+          "description": "chemprop/chemprop",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -956,7 +956,7 @@
         {
           "node_type": "item",
           "title": "rd_filters",
-          "description": null,
+          "description": "PatWalters/rd_filters",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -983,7 +983,7 @@
         {
           "node_type": "item",
           "title": "deeplearning-biology",
-          "description": null,
+          "description": "hussius/deeplearning-biology",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1004,7 +1004,7 @@
         {
           "node_type": "item",
           "title": "Awesome Explainable Graph Reasoning",
-          "description": null,
+          "description": "AstraZeneca/awesome-explainable-graph-reasoning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1033,7 +1033,7 @@
         {
           "node_type": "item",
           "title": "Awesome Python Chemistry",
-          "description": null,
+          "description": "lmmentel/awesome-python-chemistry",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1062,7 +1062,7 @@
         {
           "node_type": "item",
           "title": "Awesome Cheminformatics",
-          "description": null,
+          "description": "hsiaoyi0504/awesome-cheminformatics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1089,7 +1089,7 @@
         {
           "node_type": "item",
           "title": "Awesome Drug Discovery",
-          "description": null,
+          "description": "xnuohz/awesome-drug-discovery",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T09:13:16.522Z",
+    "last_updated": "2026-10-03T05:06:52.913Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for machine learning for small-molecule drug discovery",
