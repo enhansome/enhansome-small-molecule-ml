@@ -48,7 +48,7 @@
                 "open_issues": 21,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2475,
+                "stars": 2476,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -943,7 +943,7 @@
             "open_issues": 21,
             "owner": "chemprop",
             "repo": "chemprop",
-            "stars": 2475,
+            "stars": 2476,
             "topics": [
               "chemistry",
               "drug-discovery",
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T09:39:58.376Z",
+    "last_updated": "2026-10-06T10:41:28.939Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for machine learning for small-molecule drug discovery",

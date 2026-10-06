@@ -38,7 +38,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 ### Representation, transfer learning, and few-shot learning
 
 * Ying et al, 2021. [Do Transformers Really Perform Bad for Graph Representation? (Graphormer paper)](https://arxiv.org/abs/2106.05234). \[[Code](https://github.com/microsoft/Graphormer) ⭐ 2,478 | 🐛 102 | 🌐 Python | 📅 2026-09-26]
-* Yang et al, 2019. [Analyzing Learned Molecular Representations for Property Prediction (Chemprop)](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00237). \[[Code](https://github.com/chemprop/chemprop) ⭐ 2,475 | 🐛 21 | 🌐 Python | 📅 2026-09-01]
+* Yang et al, 2019. [Analyzing Learned Molecular Representations for Property Prediction (Chemprop)](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00237). \[[Code](https://github.com/chemprop/chemprop) ⭐ 2,476 | 🐛 21 | 🌐 Python | 📅 2026-09-01]
 * Hu et al, 2019. [Strategies for Pre-training Graph Neural Networks](https://arxiv.org/abs/1905.12265). \[[Code](https://github.com/snap-stanford/pretrain-gnns) ⭐ 1,071 | 🐛 39 | 🌐 Python | 📅 2023-07-29]
 * Satorras et al, 2021. [E(n) Equivariant Graph Neural Networks](https://arxiv.org/abs/2102.09844). \[[Code](https://github.com/vgsatorras/egnn) ⭐ 550 | 🐛 5 | 🌐 Python | 📅 2022-02-23]
 * Ahmad et al, 2021. [ChemBERTa-2: Towards Chemical Foundation Models](https://cloud.ml.jku.at/s/dZ7CwqBkHX97C6S). \[[Code](https://github.com/seyonechithrananda/bert-loves-chemistry) ⭐ 501 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2024-10-27]
@@ -159,7 +159,7 @@ A curated list of awesome papers, data sets, frameworks, packages, blogs, and ot
 ## Frameworks, Libraries, and Software Tools
 
 * [DeepChem](https://deepchem.io/) \[[Tutorials](https://github.com/deepchem/deepchem/tree/master/examples/tutorials) ⭐ 7,038 | 🐛 1,211 | 🌐 Python | 📅 2026-08-20]
-* [Chemprop](https://github.com/chemprop/chemprop) ⭐ 2,475 | 🐛 21 | 🌐 Python | 📅 2026-09-01
+* [Chemprop](https://github.com/chemprop/chemprop) ⭐ 2,476 | 🐛 21 | 🌐 Python | 📅 2026-09-01
 * [rd\_filters](https://github.com/PatWalters/rd_filters) ⭐ 172 | 🐛 6 | 🌐 Python | 📅 2026-02-17
 * [AutoDock Vina](https://autodock-vina.readthedocs.io/en/latest/index.html)
 * [BioPandas](http://rasbt.github.io/biopandas/)
