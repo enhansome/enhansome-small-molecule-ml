@@ -21,7 +21,7 @@
                 "open_issues": 102,
                 "owner": "microsoft",
                 "repo": "Graphormer",
-                "stars": 2478,
+                "stars": 2479,
                 "topics": [
                   "ai4science",
                   "deep-learning",
@@ -45,7 +45,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-01T22:43:41Z",
-                "open_issues": 21,
+                "open_issues": 20,
                 "owner": "chemprop",
                 "repo": "chemprop",
                 "stars": 2476,
@@ -306,7 +306,7 @@
                 "open_issues": 1997,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38874,
+                "stars": 38880,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -912,7 +912,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-20T19:01:34Z",
-            "open_issues": 1211,
+            "open_issues": 1218,
             "owner": "deepchem",
             "repo": "deepchem",
             "stars": 7038,
@@ -940,7 +940,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T22:43:41Z",
-            "open_issues": 21,
+            "open_issues": 20,
             "owner": "chemprop",
             "repo": "chemprop",
             "stars": 2476,
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:41:28.939Z",
+    "last_updated": "2026-10-07T09:36:55.039Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for machine learning for small-molecule drug discovery",
