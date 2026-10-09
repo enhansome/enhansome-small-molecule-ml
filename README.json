@@ -45,10 +45,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-01T22:43:41Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2477,
+                "stars": 2478,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -74,7 +74,7 @@
                 "open_issues": 39,
                 "owner": "snap-stanford",
                 "repo": "pretrain-gnns",
-                "stars": 1072,
+                "stars": 1071,
                 "topics": [
                   "graph-neural-networks",
                   "graph-representation-learning"
@@ -98,7 +98,7 @@
                 "open_issues": 5,
                 "owner": "vgsatorras",
                 "repo": "egnn",
-                "stars": 550,
+                "stars": 551,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -302,11 +302,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T21:04:37Z",
+                "last_commit": "2026-10-08T17:38:14Z",
                 "open_issues": 1997,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38883,
+                "stars": 38886,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -415,7 +415,7 @@
                 "open_issues": 10,
                 "owner": "bowenliu16",
                 "repo": "rl_graph_generation",
-                "stars": 359,
+                "stars": 358,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -481,7 +481,7 @@
                 "open_issues": 2,
                 "owner": "wenhao-gao",
                 "repo": "SynNet",
-                "stars": 101,
+                "stars": 102,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -539,7 +539,7 @@
                 "open_issues": 8,
                 "owner": "HannesStark",
                 "repo": "EquiBind",
-                "stars": 551,
+                "stars": 552,
                 "topics": [
                   "drug-discovery",
                   "equivariance",
@@ -912,10 +912,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-20T19:01:34Z",
-            "open_issues": 1219,
+            "open_issues": 1221,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 7042,
+            "stars": 7045,
             "topics": [
               "biology",
               "deep-learning",
@@ -940,10 +940,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T22:43:41Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "chemprop",
             "repo": "chemprop",
-            "stars": 2477,
+            "stars": 2478,
             "topics": [
               "chemistry",
               "drug-discovery",
@@ -996,7 +996,7 @@
             "open_issues": 0,
             "owner": "hussius",
             "repo": "deeplearning-biology",
-            "stars": 2160,
+            "stars": 2159,
             "topics": []
           },
           "first_seen": "2026-08-28T14:46:16.548Z"
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T09:47:04.557Z",
+    "last_updated": "2026-10-09T09:51:52.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for machine learning for small-molecule drug discovery",
