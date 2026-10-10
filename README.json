@@ -7,33 +7,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Ying et al, 2021. Do Transformers Really Perform Bad for Graph Representation? (Graphormer paper)",
-              "description": ". [Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Graphormer is a general-purpose deep learning backbone for molecular modeling.",
-                "homepage": null,
-                "id": 371257414,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-09-26T01:05:56Z",
-                "open_issues": 102,
-                "owner": "microsoft",
-                "repo": "Graphormer",
-                "stars": 2479,
-                "topics": [
-                  "ai4science",
-                  "deep-learning",
-                  "graph",
-                  "molecule-simulation",
-                  "transformer"
-                ]
-              },
-              "first_seen": "2026-08-28T14:46:16.548Z"
-            },
-            {
-              "node_type": "item",
               "title": "Yang et al, 2019. Analyzing Learned Molecular Representations for Property Prediction (Chemprop)",
               "description": ". [Code]",
               "children": [],
@@ -48,12 +21,39 @@
                 "open_issues": 21,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2478,
+                "stars": 2484,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
                   "machine-learning",
                   "neural-networks"
+                ]
+              },
+              "first_seen": "2026-08-28T14:46:16.548Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Ying et al, 2021. Do Transformers Really Perform Bad for Graph Representation? (Graphormer paper)",
+              "description": ". [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Graphormer is a general-purpose deep learning backbone for molecular modeling.",
+                "homepage": null,
+                "id": 371257414,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-26T01:05:56Z",
+                "open_issues": 102,
+                "owner": "microsoft",
+                "repo": "Graphormer",
+                "stars": 2480,
+                "topics": [
+                  "ai4science",
+                  "deep-learning",
+                  "graph",
+                  "molecule-simulation",
+                  "transformer"
                 ]
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -302,11 +302,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T17:38:14Z",
-                "open_issues": 1997,
+                "last_commit": "2026-10-09T17:22:43Z",
+                "open_issues": 1998,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38886,
+                "stars": 38887,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -373,7 +373,7 @@
                 "open_issues": 13,
                 "owner": "BenevolentAI",
                 "repo": "guacamol",
-                "stars": 535,
+                "stars": 536,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -817,7 +817,7 @@
                 "open_issues": 4,
                 "owner": "coleygroup",
                 "repo": "ms-pred",
-                "stars": 166,
+                "stars": 167,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -912,10 +912,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-20T19:01:34Z",
-            "open_issues": 1221,
+            "open_issues": 1223,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 7045,
+            "stars": 7049,
             "topics": [
               "biology",
               "deep-learning",
@@ -943,7 +943,7 @@
             "open_issues": 21,
             "owner": "chemprop",
             "repo": "chemprop",
-            "stars": 2478,
+            "stars": 2484,
             "topics": [
               "chemistry",
               "drug-discovery",
@@ -1017,7 +1017,7 @@
             "open_issues": 0,
             "owner": "AstraZeneca",
             "repo": "awesome-explainable-graph-reasoning",
-            "stars": 1993,
+            "stars": 1994,
             "topics": [
               "awesome-list",
               "deep-learning",
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T09:51:52.098Z",
+    "last_updated": "2026-10-10T09:16:00.842Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for machine learning for small-molecule drug discovery",
