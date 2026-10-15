@@ -21,7 +21,7 @@
                 "open_issues": 21,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2501,
+                "stars": 2502,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -98,7 +98,7 @@
                 "open_issues": 5,
                 "owner": "vgsatorras",
                 "repo": "egnn",
-                "stars": 551,
+                "stars": 550,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -302,11 +302,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T05:46:02Z",
+                "last_commit": "2026-10-15T02:18:00Z",
                 "open_issues": 2005,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38912,
+                "stars": 38918,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -568,7 +568,7 @@
                 "open_issues": 11,
                 "owner": "coleygroup",
                 "repo": "molpal",
-                "stars": 214,
+                "stars": 215,
                 "topics": [
                   "active-learning",
                   "chemistry",
@@ -593,7 +593,7 @@
                 "open_issues": 8,
                 "owner": "dockstring",
                 "repo": "dockstring",
-                "stars": 192,
+                "stars": 193,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -912,10 +912,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-20T19:01:34Z",
-            "open_issues": 1230,
+            "open_issues": 1235,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 7054,
+            "stars": 7057,
             "topics": [
               "biology",
               "deep-learning",
@@ -943,7 +943,7 @@
             "open_issues": 21,
             "owner": "chemprop",
             "repo": "chemprop",
-            "stars": 2501,
+            "stars": 2502,
             "topics": [
               "chemistry",
               "drug-discovery",
@@ -1046,7 +1046,7 @@
             "open_issues": 10,
             "owner": "lmmentel",
             "repo": "awesome-python-chemistry",
-            "stars": 1448,
+            "stars": 1447,
             "topics": [
               "atomistic-simulations",
               "chemistry",
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T08:16:29.957Z",
+    "last_updated": "2026-10-15T07:53:31.443Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for machine learning for small-molecule drug discovery",
