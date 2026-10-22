@@ -17,11 +17,11 @@
                 "id": 167628014,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-20T17:24:19Z",
+                "last_commit": "2026-10-21T18:37:52Z",
                 "open_issues": 26,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2510,
+                "stars": 2511,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -47,7 +47,7 @@
                 "open_issues": 102,
                 "owner": "microsoft",
                 "repo": "Graphormer",
-                "stars": 2480,
+                "stars": 2481,
                 "topics": [
                   "ai4science",
                   "deep-learning",
@@ -205,7 +205,7 @@
               "description": ". [Code]",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "FS-Mol  is A Few-Shot Learning Dataset of Molecules, containing molecular compounds with measurements of activity against a variety of protein targets. The dataset is presented with a model evaluation benchmark which aims to drive few-shot learning research in the domain of molecules and graph-structured data.",
                 "homepage": null,
                 "id": 395745872,
@@ -302,11 +302,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T07:52:25Z",
-                "open_issues": 2008,
+                "last_commit": "2026-10-22T02:02:42Z",
+                "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38992,
+                "stars": 39000,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -912,10 +912,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-20T19:01:34Z",
-            "open_issues": 1250,
+            "open_issues": 1256,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 7073,
+            "stars": 7076,
             "topics": [
               "biology",
               "deep-learning",
@@ -939,11 +939,11 @@
             "id": 167628014,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-20T17:24:19Z",
+            "last_commit": "2026-10-21T18:37:52Z",
             "open_issues": 26,
             "owner": "chemprop",
             "repo": "chemprop",
-            "stars": 2510,
+            "stars": 2511,
             "topics": [
               "chemistry",
               "drug-discovery",
@@ -996,7 +996,7 @@
             "open_issues": 0,
             "owner": "hussius",
             "repo": "deeplearning-biology",
-            "stars": 2162,
+            "stars": 2163,
             "topics": []
           },
           "first_seen": "2026-08-28T14:46:16.548Z"
@@ -1075,7 +1075,7 @@
             "open_issues": 34,
             "owner": "hsiaoyi0504",
             "repo": "awesome-cheminformatics",
-            "stars": 890,
+            "stars": 892,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T08:09:57.152Z",
+    "last_updated": "2026-10-22T08:11:09.497Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for machine learning for small-molecule drug discovery",
@@ -1128,7 +1128,7 @@
       "open_issues": 5,
       "owner": "benb111",
       "repo": "awesome-small-molecule-ml",
-      "stars": 244,
+      "stars": 245,
       "topics": [
         "awesome",
         "awesome-list",
