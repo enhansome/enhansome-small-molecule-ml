@@ -21,7 +21,7 @@
                 "open_issues": 26,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2511,
+                "stars": 2514,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -47,7 +47,7 @@
                 "open_issues": 102,
                 "owner": "microsoft",
                 "repo": "Graphormer",
-                "stars": 2481,
+                "stars": 2482,
                 "topics": [
                   "ai4science",
                   "deep-learning",
@@ -119,7 +119,7 @@
                 "open_issues": 10,
                 "owner": "seyonechithrananda",
                 "repo": "bert-loves-chemistry",
-                "stars": 503,
+                "stars": 504,
                 "topics": [
                   "bert",
                   "chemical-modelling",
@@ -302,11 +302,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-25T00:00:25Z",
+                "last_commit": "2026-10-26T00:43:54Z",
                 "open_issues": 2024,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39022,
+                "stars": 39029,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -460,7 +460,7 @@
                 "open_issues": 1,
                 "owner": "oxpig",
                 "repo": "DeLinker",
-                "stars": 140,
+                "stars": 141,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -817,7 +817,7 @@
                 "open_issues": 4,
                 "owner": "coleygroup",
                 "repo": "ms-pred",
-                "stars": 168,
+                "stars": 169,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -871,7 +871,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "[Bioinformatics] 3DMolMS: prediction of tandem mass spectra from 3D molecular conformations",
+                "description": "Prediction of tandem mass spectra from 3D molecular conformations",
                 "homepage": null,
                 "id": 465886587,
                 "language": "Python",
@@ -912,10 +912,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-20T19:01:34Z",
-            "open_issues": 1261,
+            "open_issues": 1262,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 7085,
+            "stars": 7090,
             "topics": [
               "biology",
               "deep-learning",
@@ -943,7 +943,7 @@
             "open_issues": 26,
             "owner": "chemprop",
             "repo": "chemprop",
-            "stars": 2511,
+            "stars": 2514,
             "topics": [
               "chemistry",
               "drug-discovery",
@@ -1046,7 +1046,7 @@
             "open_issues": 12,
             "owner": "lmmentel",
             "repo": "awesome-python-chemistry",
-            "stars": 1449,
+            "stars": 1450,
             "topics": [
               "atomistic-simulations",
               "chemistry",
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T07:58:57.414Z",
+    "last_updated": "2026-10-26T08:20:49.949Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for machine learning for small-molecule drug discovery",
