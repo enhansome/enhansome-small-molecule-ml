@@ -98,7 +98,7 @@
                 "open_issues": 5,
                 "owner": "vgsatorras",
                 "repo": "egnn",
-                "stars": 550,
+                "stars": 551,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -306,7 +306,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39080,
+                "stars": 39094,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -432,7 +432,7 @@
                 "id": 203729484,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-23T19:48:13Z",
+                "last_commit": "2026-11-01T23:15:12Z",
                 "open_issues": 6,
                 "owner": "DrrDom",
                 "repo": "crem",
@@ -814,7 +814,7 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-10-26T14:47:44Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "coleygroup",
                 "repo": "ms-pred",
                 "stars": 169,
@@ -912,10 +912,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-20T19:01:34Z",
-            "open_issues": 1266,
+            "open_issues": 1268,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 7114,
+            "stars": 7116,
             "topics": [
               "biology",
               "deep-learning",
@@ -996,7 +996,7 @@
             "open_issues": 0,
             "owner": "hussius",
             "repo": "deeplearning-biology",
-            "stars": 2165,
+            "stars": 2166,
             "topics": []
           },
           "first_seen": "2026-08-28T14:46:16.548Z"
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T09:56:27.927Z",
+    "last_updated": "2026-11-02T10:23:25.344Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for machine learning for small-molecule drug discovery",
