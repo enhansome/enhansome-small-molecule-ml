@@ -74,7 +74,7 @@
                 "open_issues": 39,
                 "owner": "snap-stanford",
                 "repo": "pretrain-gnns",
-                "stars": 1074,
+                "stars": 1075,
                 "topics": [
                   "graph-neural-networks",
                   "graph-representation-learning"
@@ -306,7 +306,7 @@
                 "open_issues": 2013,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39178,
+                "stars": 39187,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -915,7 +915,7 @@
             "open_issues": 1295,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 7146,
+            "stars": 7147,
             "topics": [
               "biology",
               "deep-learning",
@@ -996,7 +996,7 @@
             "open_issues": 0,
             "owner": "hussius",
             "repo": "deeplearning-biology",
-            "stars": 2167,
+            "stars": 2166,
             "topics": []
           },
           "first_seen": "2026-08-28T14:46:16.548Z"
@@ -1017,7 +1017,7 @@
             "open_issues": 0,
             "owner": "AstraZeneca",
             "repo": "awesome-explainable-graph-reasoning",
-            "stars": 1993,
+            "stars": 1994,
             "topics": [
               "awesome-list",
               "deep-learning",
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T10:14:37.808Z",
+    "last_updated": "2026-11-16T10:27:51.796Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for machine learning for small-molecule drug discovery",
