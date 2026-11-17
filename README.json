@@ -18,7 +18,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-12T20:01:46Z",
-                "open_issues": 25,
+                "open_issues": 27,
                 "owner": "chemprop",
                 "repo": "chemprop",
                 "stars": 2532,
@@ -302,11 +302,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-14T12:36:20Z",
+                "last_commit": "2026-11-16T16:31:35Z",
                 "open_issues": 2013,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39187,
+                "stars": 39200,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -373,7 +373,7 @@
                 "open_issues": 13,
                 "owner": "BenevolentAI",
                 "repo": "guacamol",
-                "stars": 537,
+                "stars": 538,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -436,7 +436,7 @@
                 "open_issues": 6,
                 "owner": "DrrDom",
                 "repo": "crem",
-                "stars": 290,
+                "stars": 291,
                 "topics": [
                   "chemical-space",
                   "chemoinformatics"
@@ -912,10 +912,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-20T19:01:34Z",
-            "open_issues": 1295,
+            "open_issues": 1296,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 7147,
+            "stars": 7151,
             "topics": [
               "biology",
               "deep-learning",
@@ -940,7 +940,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-12T20:01:46Z",
-            "open_issues": 25,
+            "open_issues": 27,
             "owner": "chemprop",
             "repo": "chemprop",
             "stars": 2532,
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T10:27:51.796Z",
+    "last_updated": "2026-11-17T11:23:46.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for machine learning for small-molecule drug discovery",
