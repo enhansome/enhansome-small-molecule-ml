@@ -21,7 +21,7 @@
                 "open_issues": 27,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2532,
+                "stars": 2531,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -302,11 +302,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T16:31:35Z",
+                "last_commit": "2026-11-17T17:57:37Z",
                 "open_issues": 2013,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39200,
+                "stars": 39217,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -817,7 +817,7 @@
                 "open_issues": 6,
                 "owner": "coleygroup",
                 "repo": "ms-pred",
-                "stars": 174,
+                "stars": 173,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -912,10 +912,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-20T19:01:34Z",
-            "open_issues": 1296,
+            "open_issues": 1297,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 7151,
+            "stars": 7152,
             "topics": [
               "biology",
               "deep-learning",
@@ -943,7 +943,7 @@
             "open_issues": 27,
             "owner": "chemprop",
             "repo": "chemprop",
-            "stars": 2532,
+            "stars": 2531,
             "topics": [
               "chemistry",
               "drug-discovery",
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T11:23:46.251Z",
+    "last_updated": "2026-11-18T10:56:31.100Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for machine learning for small-molecule drug discovery",
