@@ -302,11 +302,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-17T17:57:37Z",
+                "last_commit": "2026-11-19T07:13:02Z",
                 "open_issues": 2013,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39217,
+                "stars": 39227,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -373,7 +373,7 @@
                 "open_issues": 13,
                 "owner": "BenevolentAI",
                 "repo": "guacamol",
-                "stars": 538,
+                "stars": 539,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -817,7 +817,7 @@
                 "open_issues": 6,
                 "owner": "coleygroup",
                 "repo": "ms-pred",
-                "stars": 173,
+                "stars": 174,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:46:16.548Z"
@@ -915,7 +915,7 @@
             "open_issues": 1297,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 7152,
+            "stars": 7154,
             "topics": [
               "biology",
               "deep-learning",
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T10:56:31.100Z",
+    "last_updated": "2026-11-19T10:58:43.594Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for machine learning for small-molecule drug discovery",
