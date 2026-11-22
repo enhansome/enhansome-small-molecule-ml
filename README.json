@@ -231,8 +231,8 @@
                 "homepage": null,
                 "id": 215128487,
                 "language": "Jupyter Notebook",
-                "license": null,
-                "last_commit": "2022-08-28T19:26:17Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-22T02:37:17Z",
                 "open_issues": 3,
                 "owner": "XinhaoLi74",
                 "repo": "MolPMoFiT",
@@ -302,11 +302,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T22:58:37Z",
-                "open_issues": 2013,
+                "last_commit": "2026-11-21T15:37:23Z",
+                "open_issues": 2014,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39248,
+                "stars": 39255,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -912,7 +912,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-20T19:01:34Z",
-            "open_issues": 1298,
+            "open_issues": 1299,
             "owner": "deepchem",
             "repo": "deepchem",
             "stars": 7153,
@@ -996,7 +996,7 @@
             "open_issues": 0,
             "owner": "hussius",
             "repo": "deeplearning-biology",
-            "stars": 2165,
+            "stars": 2167,
             "topics": []
           },
           "first_seen": "2026-08-28T14:46:16.548Z"
@@ -1075,7 +1075,7 @@
             "open_issues": 36,
             "owner": "hsiaoyi0504",
             "repo": "awesome-cheminformatics",
-            "stars": 899,
+            "stars": 900,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T10:30:24.019Z",
+    "last_updated": "2026-11-22T10:35:13.326Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for machine learning for small-molecule drug discovery",
