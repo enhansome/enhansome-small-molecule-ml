@@ -47,7 +47,7 @@
                 "open_issues": 100,
                 "owner": "microsoft",
                 "repo": "Graphormer",
-                "stars": 2485,
+                "stars": 2486,
                 "topics": [
                   "ai4science",
                   "deep-learning",
@@ -303,10 +303,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-26T08:37:24Z",
-                "open_issues": 2020,
+                "open_issues": 2023,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39499,
+                "stars": 39550,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -737,7 +737,7 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2022-06-08T18:09:00Z",
-                "open_issues": 5,
+                "open_issues": 4,
                 "owner": "coleygroup",
                 "repo": "del_qsar",
                 "stars": 33,
@@ -912,10 +912,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-20T19:01:34Z",
-            "open_issues": 1297,
+            "open_issues": 1299,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 7161,
+            "stars": 7162,
             "topics": [
               "biology",
               "deep-learning",
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T11:45:17.544Z",
+    "last_updated": "2026-11-27T11:38:42.995Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for machine learning for small-molecule drug discovery",
